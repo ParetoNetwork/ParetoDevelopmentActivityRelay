@@ -1,0 +1,6 @@
+
+ 
+commit bd880d52933bcb5f1f60b2794cbd552811cdd4d7
+Author:	Sheraz Arshad <sheraz1392@gmail.com>
+Date:	Sat Jun 23 2018 02:43:08 GMT-0500 (Colombia Standard Time)
+    Add estimate gas support for Creation, sending reward and distributing reward functions in tests
