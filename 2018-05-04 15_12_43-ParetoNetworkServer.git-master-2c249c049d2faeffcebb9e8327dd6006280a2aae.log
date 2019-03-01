@@ -1,0 +1,6 @@
+
+ 
+commit 2c249c049d2faeffcebb9e8327dd6006280a2aae
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Fri May 04 2018 10:12:43 GMT-0500 (Colombia Standard Time)
+    configuring authenticated request, testing signup in controller
