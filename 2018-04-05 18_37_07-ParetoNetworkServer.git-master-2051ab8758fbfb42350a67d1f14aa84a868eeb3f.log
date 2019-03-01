@@ -1,0 +1,6 @@
+
+ 
+commit 2051ab8758fbfb42350a67d1f14aa84a868eeb3f
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Apr 05 2018 13:37:07 GMT-0500 (Colombia Standard Time)
+    rank section fixed, view side counting, need to cleanup frontend.js now
