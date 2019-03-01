@@ -1,0 +1,6 @@
+
+ 
+commit 458ed5fff4f3887fb89f9e3fda71b4752a85dc9d
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Sun Apr 01 2018 02:27:45 GMT-0500 (Colombia Standard Time)
+    address checking and updating immediately upon signing. could possibly be slow and needs some user feedback.
