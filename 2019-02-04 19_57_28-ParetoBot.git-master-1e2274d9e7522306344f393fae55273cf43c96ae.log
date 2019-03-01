@@ -1,0 +1,8 @@
+
+ 
+commit 1e2274d9e7522306344f393fae55273cf43c96ae
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Mon Feb 04 2019 14:57:28 GMT-0500 (Colombia Standard Time)
+    Added service to restrict all users in a chat.
+Fixed some bugs on method name changes.
+Fixed commands to work inline when user presses help (https://github.com/ParetoNetwork/ParetoBot/issues/21).
