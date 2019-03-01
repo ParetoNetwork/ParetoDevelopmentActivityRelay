@@ -1,0 +1,6 @@
+
+ 
+commit 3baab962235990e87f617e906fbf9dca3e38ce3e
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Mon Feb 04 2019 15:32:44 GMT-0500 (Colombia Standard Time)
+    Restricted quiz questions to a 2 column grid. (https://github.com/ParetoNetwork/ParetoBot/issues/15)
