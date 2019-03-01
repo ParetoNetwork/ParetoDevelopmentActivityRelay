@@ -1,0 +1,8 @@
+
+ 
+commit 906cde3cde3acb00aa8ad60c80de162999ba1f5a
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Jun 21 2018 16:24:56 GMT-0500 (Colombia Standard Time)
+    Merge pull request #62 from ParetoNetwork/add_circle_ci_badge
+
+fixes #43
