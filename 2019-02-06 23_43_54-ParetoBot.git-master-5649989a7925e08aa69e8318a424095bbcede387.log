@@ -1,0 +1,9 @@
+
+ 
+commit 5649989a7925e08aa69e8318a424095bbcede387
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Wed Feb 06 2019 18:43:54 GMT-0500 (Colombia Standard Time)
+    Worked on bot answering to his name being called by an amdin.
+Bot now notifies sessions that are about to expire. (https://github.com/ParetoNetwork/ParetoBot/issues/20)
+Bot now has the ability to post messages via request. Part of (https://github.com/ParetoNetwork/ParetoBot/issues/22)
+Work in progress on bot asking people on the group to talk to it given certain conditions. part of (https://github.com/ParetoNetwork/ParetoBot/issues/22)
