@@ -1,0 +1,8 @@
+
+ 
+commit 20d24d6d90c32616913f4f9c985472f8a7ec95ba
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Sat Jun 16 2018 15:52:05 GMT-0500 (Colombia Standard Time)
+    Merge pull request #42 from ParetoNetwork/leaderboards-ux
+
+hopefully fixes issues for other web3 browsers such as Trust
