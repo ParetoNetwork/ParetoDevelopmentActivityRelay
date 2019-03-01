@@ -1,0 +1,6 @@
+
+ 
+commit 03f6c96a24a1cdf24f09f899ae81e8ddb2d91a2d
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Tue Jan 29 2019 19:29:26 GMT-0500 (Colombia Standard Time)
+    Muting on supergroups works. Answering quizes works. Whitelist timeframe (1 hour) works. Models for interacting with mongoDB for answers work.
