@@ -1,0 +1,6 @@
+
+ 
+commit f0bb81f38891703ae0c5363877dd725d3c9dd076
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Feb 04 2019 16:14:32 GMT-0500 (Colombia Standard Time)
+    fix returning logic
