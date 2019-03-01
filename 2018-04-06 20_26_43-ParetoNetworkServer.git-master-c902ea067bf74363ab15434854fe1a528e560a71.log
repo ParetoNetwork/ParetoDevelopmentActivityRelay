@@ -1,0 +1,6 @@
+
+ 
+commit c902ea067bf74363ab15434854fe1a528e560a71
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Apr 06 2018 15:26:43 GMT-0500 (Colombia Standard Time)
+    adds limit to entity
