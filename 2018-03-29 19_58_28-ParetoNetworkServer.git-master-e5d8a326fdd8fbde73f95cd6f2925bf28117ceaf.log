@@ -1,0 +1,6 @@
+
+ 
+commit e5d8a326fdd8fbde73f95cd6f2925bf28117ceaf
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Mar 29 2018 14:58:28 GMT-0500 (Colombia Standard Time)
+    backend tweak for initial auth
