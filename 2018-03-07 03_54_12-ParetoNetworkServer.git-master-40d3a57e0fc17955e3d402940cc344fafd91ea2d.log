@@ -1,0 +1,6 @@
+
+ 
+commit 40d3a57e0fc17955e3d402940cc344fafd91ea2d
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Tue Mar 06 2018 22:54:12 GMT-0500 (Colombia Standard Time)
+    exposing post request to DB
