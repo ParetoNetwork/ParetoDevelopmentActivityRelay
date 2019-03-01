@@ -1,0 +1,7 @@
+
+ 
+commit 50c76f41191109efa46777fc6a6604bb79e268fe
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Tue Feb 12 2019 19:04:08 GMT-0500 (Colombia Standard Time)
+    Clears messages and channel joins if an interaction message is sent.
+This fixes issue https://github.com/ParetoNetwork/ParetoBot/issues/52
