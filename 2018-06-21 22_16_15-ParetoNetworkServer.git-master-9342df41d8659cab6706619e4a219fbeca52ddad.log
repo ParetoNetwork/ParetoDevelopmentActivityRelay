@@ -1,0 +1,8 @@
+
+ 
+commit 9342df41d8659cab6706619e4a219fbeca52ddad
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Jun 21 2018 17:16:15 GMT-0500 (Colombia Standard Time)
+    Merge pull request #63 from ParetoNetwork/fix_login_flow
+
+fixes download folder issue.
