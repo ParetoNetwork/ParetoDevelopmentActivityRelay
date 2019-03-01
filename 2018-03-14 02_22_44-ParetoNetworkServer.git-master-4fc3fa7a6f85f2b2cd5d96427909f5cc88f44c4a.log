@@ -1,0 +1,6 @@
+
+ 
+commit 4fc3fa7a6f85f2b2cd5d96427909f5cc88f44c4a
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Tue Mar 13 2018 21:22:44 GMT-0500 (Colombia Standard Time)
+    deals with scores of 0
