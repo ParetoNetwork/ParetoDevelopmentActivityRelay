@@ -1,0 +1,6 @@
+
+ 
+commit 617bf3bf8f3d46a3303c74ba6f4196d884c918ed
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Sat Feb 02 2019 12:09:17 GMT-0500 (Colombia Standard Time)
+    mongo env fix
