@@ -1,0 +1,7 @@
+
+ 
+commit fa3c7b32ffbefe71e19026451f764193159ca0e2
+Author:	udayavmoksha <udaya@vmokshagroup.com>
+Date:	Wed Nov 08 2017 15:58:39 GMT-0500 (Colombia Standard Time)
+    Updated Naming Conventions and added JWT Auth functions
+
