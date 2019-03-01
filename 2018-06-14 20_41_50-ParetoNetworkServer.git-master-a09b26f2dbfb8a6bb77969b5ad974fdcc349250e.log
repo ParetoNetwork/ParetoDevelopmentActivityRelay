@@ -1,0 +1,6 @@
+
+ 
+commit a09b26f2dbfb8a6bb77969b5ad974fdcc349250e
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Jun 14 2018 15:41:50 GMT-0500 (Colombia Standard Time)
+    update to .gitignore to ignore frontend/dist/
