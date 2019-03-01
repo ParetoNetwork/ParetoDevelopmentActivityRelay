@@ -1,0 +1,6 @@
+
+ 
+commit a947c456fe73bf21ec5ddd21a2c8ca3a67170bcc
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Tue May 15 2018 15:30:03 GMT-0500 (Colombia Standard Time)
+    add swagger and first request on swagger.json
