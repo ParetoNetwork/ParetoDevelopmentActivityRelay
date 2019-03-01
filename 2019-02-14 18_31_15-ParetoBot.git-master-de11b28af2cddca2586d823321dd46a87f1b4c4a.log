@@ -1,0 +1,6 @@
+
+ 
+commit de11b28af2cddca2586d823321dd46a87f1b4c4a
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Feb 14 2019 13:31:15 GMT-0500 (Colombia Standard Time)
+    cron comment out for deployment
