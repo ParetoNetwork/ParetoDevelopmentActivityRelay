@@ -1,0 +1,6 @@
+
+ 
+commit 04722065b1f32b04b9c68bc3f61b797a3b6908b3
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Jun 15 2018 11:02:24 GMT-0500 (Colombia Standard Time)
+    add $ to variables block and tokens when fecth mongo
