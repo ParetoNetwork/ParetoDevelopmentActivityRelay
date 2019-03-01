@@ -1,0 +1,6 @@
+
+ 
+commit f831f9a272cb310015b64a2241b27555f7f890da
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Tue Mar 27 2018 00:48:40 GMT-0500 (Colombia Standard Time)
+    asynchronous queries for content based on percentile, results concatenated and sorted by block
