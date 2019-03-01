@@ -1,0 +1,6 @@
+
+ 
+commit d124e183eaedae6f7154c501dba5b1d4ee5d472b
+Author:	Uday Kiran Atta <UdayA@vmoksha.com>
+Date:	Thu Sep 07 2017 09:25:34 GMT-0500 (Colombia Standard Time)
+    Added Lambda function which is an ApiGateway Subscriber based on the request it query's returns data from DynamoDB
