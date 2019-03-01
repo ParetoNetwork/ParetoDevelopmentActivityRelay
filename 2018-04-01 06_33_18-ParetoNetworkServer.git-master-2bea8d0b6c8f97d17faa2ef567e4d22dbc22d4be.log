@@ -1,0 +1,6 @@
+
+ 
+commit 2bea8d0b6c8f97d17faa2ef567e4d22dbc22d4be
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Sun Apr 01 2018 01:33:18 GMT-0500 (Colombia Standard Time)
+    fix for unranked addresses
