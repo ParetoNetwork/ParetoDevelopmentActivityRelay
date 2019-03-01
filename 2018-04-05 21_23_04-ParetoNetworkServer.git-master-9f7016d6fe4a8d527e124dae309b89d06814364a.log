@@ -1,0 +1,6 @@
+
+ 
+commit 9f7016d6fe4a8d527e124dae309b89d06814364a
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Apr 05 2018 16:23:04 GMT-0500 (Colombia Standard Time)
+    fixed quirk in ranking and scoring calculations
