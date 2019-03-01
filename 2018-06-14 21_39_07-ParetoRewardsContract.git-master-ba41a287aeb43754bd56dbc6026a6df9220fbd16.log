@@ -1,0 +1,6 @@
+
+ 
+commit ba41a287aeb43754bd56dbc6026a6df9220fbd16
+Author:	Sheraz Arshad <sheraz1392@gmail.com>
+Date:	Thu Jun 14 2018 16:39:07 GMT-0500 (Colombia Standard Time)
+    implement send reward and add ERC20 token support
