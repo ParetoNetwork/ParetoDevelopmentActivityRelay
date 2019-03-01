@@ -1,0 +1,6 @@
+
+ 
+commit 856e408b2ddd350613d738c34e9852cf133a5412
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Apr 04 2018 22:49:35 GMT-0500 (Colombia Standard Time)
+    try to log bad data from sign method
