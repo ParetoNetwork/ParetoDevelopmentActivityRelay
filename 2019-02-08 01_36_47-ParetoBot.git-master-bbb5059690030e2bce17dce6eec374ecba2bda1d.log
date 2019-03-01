@@ -1,0 +1,8 @@
+
+ 
+commit bbb5059690030e2bce17dce6eec374ecba2bda1d
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Feb 07 2019 20:36:47 GMT-0500 (Colombia Standard Time)
+    Merge pull request #49 from ParetoNetwork/feature-message-before-expiration
+
+Added ability to send GIF and Stickers to the bot.
