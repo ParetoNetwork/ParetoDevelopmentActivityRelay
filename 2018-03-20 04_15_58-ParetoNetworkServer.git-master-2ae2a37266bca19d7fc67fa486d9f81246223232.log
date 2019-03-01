@@ -1,0 +1,6 @@
+
+ 
+commit 2ae2a37266bca19d7fc67fa486d9f81246223232
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Mar 19 2018 23:15:58 GMT-0500 (Colombia Standard Time)
+    session and validator skeleton code
