@@ -1,0 +1,6 @@
+
+ 
+commit 1ea46785be80a129428e5016b31361455dd7fe30
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Tue Feb 27 2018 19:59:51 GMT-0500 (Colombia Standard Time)
+    algorithm adjustment, dynamic limitation on ranking growth
