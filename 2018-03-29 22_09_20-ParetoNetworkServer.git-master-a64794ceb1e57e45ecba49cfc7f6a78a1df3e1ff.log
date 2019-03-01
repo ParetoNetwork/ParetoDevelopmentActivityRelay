@@ -1,0 +1,6 @@
+
+ 
+commit a64794ceb1e57e45ecba49cfc7f6a78a1df3e1ff
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Mar 29 2018 17:09:20 GMT-0500 (Colombia Standard Time)
+    adding latest token amount to user/address object
