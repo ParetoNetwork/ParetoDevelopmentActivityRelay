@@ -1,0 +1,6 @@
+
+ 
+commit 83bb0eb1b2665f6f11878d3cc4de9bcb648d102e
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Mon Feb 04 2019 16:17:26 GMT-0500 (Colombia Standard Time)
+    Added unhandled promises to most blank promises. (https://github.com/ParetoNetwork/ParetoBot/issues/19)
