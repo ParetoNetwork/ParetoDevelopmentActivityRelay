@@ -1,0 +1,6 @@
+
+ 
+commit c4e756f2dfd867b19cca682ca0ccfe000a9ee9ce
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Apr 06 2018 15:10:12 GMT-0500 (Colombia Standard Time)
+    some better logging on sign function
