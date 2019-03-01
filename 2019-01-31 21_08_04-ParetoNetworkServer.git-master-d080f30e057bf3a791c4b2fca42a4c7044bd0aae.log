@@ -1,0 +1,6 @@
+
+ 
+commit d080f30e057bf3a791c4b2fca42a4c7044bd0aae
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Jan 31 2019 16:08:04 GMT-0500 (Colombia Standard Time)
+    Fixes #472 Fixed shimmer, added the responsive changes
