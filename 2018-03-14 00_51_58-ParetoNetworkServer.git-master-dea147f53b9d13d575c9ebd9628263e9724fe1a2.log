@@ -1,0 +1,6 @@
+
+ 
+commit dea147f53b9d13d575c9ebd9628263e9724fe1a2
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Tue Mar 13 2018 19:51:58 GMT-0500 (Colombia Standard Time)
+    address updating, now with async await test
