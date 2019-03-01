@@ -1,0 +1,6 @@
+
+ 
+commit b3453d1cfc0cd99f9d099bd441d3a7db8bb56a88
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Feb 05 2019 20:10:48 GMT-0500 (Colombia Standard Time)
+    Added changes for intel preview and responsive size, missing shimmer fix and intel preview inside event feed
