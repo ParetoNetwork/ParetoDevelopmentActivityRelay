@@ -1,0 +1,6 @@
+
+ 
+commit 0d81148130118c29b5055e72e16236f8d1f18f1f
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Feb 23 2018 17:58:22 GMT-0500 (Colombia Standard Time)
+    port environment variable
