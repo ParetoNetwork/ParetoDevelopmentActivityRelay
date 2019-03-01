@@ -1,0 +1,6 @@
+
+ 
+commit 06288146d6aad30a157e3befd8d4a0d84a7d5eb6
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Feb 06 2019 13:01:49 GMT-0500 (Colombia Standard Time)
+    path resolving for different host OSs
