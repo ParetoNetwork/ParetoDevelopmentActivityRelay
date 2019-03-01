@@ -1,0 +1,8 @@
+
+ 
+commit ca72bd649df4567ef63e9fa26ce82f323182cd24
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Apr 27 2018 15:40:32 GMT-0500 (Colombia Standard Time)
+    Merge pull request #10 from ParetoNetwork/user-feedback-on-long-tasks
+
+Fixes #2
