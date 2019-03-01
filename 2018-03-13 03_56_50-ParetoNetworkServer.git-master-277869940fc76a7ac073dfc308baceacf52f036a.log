@@ -1,0 +1,6 @@
+
+ 
+commit 277869940fc76a7ac073dfc308baceacf52f036a
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Mar 12 2018 22:56:50 GMT-0500 (Colombia Standard Time)
+    can save all address to database and update them periodically. data type problems, replace MongoDB with Mongoose
