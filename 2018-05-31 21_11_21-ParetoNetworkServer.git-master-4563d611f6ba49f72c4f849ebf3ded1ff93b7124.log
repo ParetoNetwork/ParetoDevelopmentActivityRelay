@@ -1,0 +1,6 @@
+
+ 
+commit 4563d611f6ba49f72c4f849ebf3ded1ff93b7124
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Thu May 31 2018 16:11:21 GMT-0500 (Colombia Standard Time)
+    merge with Implemenjs and add test to rank > 1 and test the initialize components on vue
