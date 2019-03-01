@@ -1,0 +1,6 @@
+
+ 
+commit 8d29bee6352fbb27760f9d00a3ad93b11ae2ab42
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Tue Mar 27 2018 21:08:51 GMT-0500 (Colombia Standard Time)
+    jwt authentication
