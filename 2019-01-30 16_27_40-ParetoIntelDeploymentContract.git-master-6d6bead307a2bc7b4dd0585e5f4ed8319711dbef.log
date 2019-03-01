@@ -1,0 +1,6 @@
+
+ 
+commit 6d6bead307a2bc7b4dd0585e5f4ed8319711dbef
+Author:	Sheraz Arshad <sheraz1392@gmail.com>
+Date:	Wed Jan 30 2019 11:27:40 GMT-0500 (Colombia Standard Time)
+    add test dapp and integrate truffle
