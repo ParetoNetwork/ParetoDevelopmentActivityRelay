@@ -1,0 +1,6 @@
+
+ 
+commit 430e22d9b46acc0bc5ab92070ed88e1c5d2f6eab
+Author:	Sheraz Arshad <sheraz1392@gmail.com>
+Date:	Thu Jun 21 2018 17:53:35 GMT-0500 (Colombia Standard Time)
+    fix issue in sendReward
