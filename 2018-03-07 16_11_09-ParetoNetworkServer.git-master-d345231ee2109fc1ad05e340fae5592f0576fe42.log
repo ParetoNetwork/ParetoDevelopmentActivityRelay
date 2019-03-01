@@ -1,0 +1,6 @@
+
+ 
+commit d345231ee2109fc1ad05e340fae5592f0576fe42
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Mar 07 2018 11:11:09 GMT-0500 (Colombia Standard Time)
+    environment variable for db
