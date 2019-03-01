@@ -1,0 +1,6 @@
+
+ 
+commit 9c25463d1dee5e1fe33385e97686b97becd33d4b
+Author:	Sheraz Arshad <sheraz1392@gmail.com>
+Date:	Fri Jun 22 2018 17:04:05 GMT-0500 (Colombia Standard Time)
+    add tests for reward and fix some Intel contract issues
