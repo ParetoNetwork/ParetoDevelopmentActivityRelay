@@ -1,0 +1,8 @@
+
+ 
+commit 5b5a93db1bcc216bf4d520eebfafcb9c1f17efc7
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Feb 06 2019 13:02:28 GMT-0500 (Colombia Standard Time)
+    Merge pull request #33 from ParetoNetwork/development
+
+path resolving for different host OSs
