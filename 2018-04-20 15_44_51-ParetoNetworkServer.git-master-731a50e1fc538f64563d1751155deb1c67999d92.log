@@ -1,0 +1,6 @@
+
+ 
+commit 731a50e1fc538f64563d1751155deb1c67999d92
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Apr 20 2018 10:44:51 GMT-0500 (Colombia Standard Time)
+    change to database URI and default local database
