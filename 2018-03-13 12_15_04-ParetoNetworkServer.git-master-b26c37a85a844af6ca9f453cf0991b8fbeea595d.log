@@ -1,0 +1,6 @@
+
+ 
+commit b26c37a85a844af6ca9f453cf0991b8fbeea595d
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Tue Mar 13 2018 07:15:04 GMT-0500 (Colombia Standard Time)
+    mongoose beginnings to replace mongoldb
