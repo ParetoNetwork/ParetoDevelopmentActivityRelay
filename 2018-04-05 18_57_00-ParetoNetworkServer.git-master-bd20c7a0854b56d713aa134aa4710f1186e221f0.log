@@ -1,0 +1,6 @@
+
+ 
+commit bd20c7a0854b56d713aa134aa4710f1186e221f0
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Apr 05 2018 13:57:00 GMT-0500 (Colombia Standard Time)
+    conditional nav bar height on splash page
