@@ -1,0 +1,6 @@
+
+ 
+commit 1b2bd38ee53808fba2454e2d7d973a51b0f4bbfb
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Jun 21 2018 09:19:24 GMT-0500 (Colombia Standard Time)
+    fix sign flow, fix no user mongo error, add message frontend
