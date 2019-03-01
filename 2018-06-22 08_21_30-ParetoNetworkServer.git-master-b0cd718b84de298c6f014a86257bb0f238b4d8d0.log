@@ -1,0 +1,8 @@
+
+ 
+commit b0cd718b84de298c6f014a86257bb0f238b4d8d0
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Jun 22 2018 03:21:30 GMT-0500 (Colombia Standard Time)
+    Merge pull request #70 from ParetoNetwork/revert-69-master
+
+Revert "moving upstream"
