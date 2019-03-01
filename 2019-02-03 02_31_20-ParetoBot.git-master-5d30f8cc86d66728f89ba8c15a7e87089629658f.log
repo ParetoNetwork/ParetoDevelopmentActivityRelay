@@ -1,0 +1,6 @@
+
+ 
+commit 5d30f8cc86d66728f89ba8c15a7e87089629658f
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Sat Feb 02 2019 21:31:20 GMT-0500 (Colombia Standard Time)
+    added user model, ties things together a bit
