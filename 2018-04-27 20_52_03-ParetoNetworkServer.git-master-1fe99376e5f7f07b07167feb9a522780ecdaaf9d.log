@@ -1,0 +1,6 @@
+
+ 
+commit 1fe99376e5f7f07b07167feb9a522780ecdaaf9d
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Apr 27 2018 15:52:03 GMT-0500 (Colombia Standard Time)
+    forcing environment variable instead of use of backend-private
