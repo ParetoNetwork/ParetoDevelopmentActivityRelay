@@ -1,0 +1,6 @@
+
+ 
+commit 19870d068fe6faf5fc024cdeab4106cef8e23bbf
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Oct 25 2018 09:46:52 GMT-0500 (Colombia Standard Time)
+    revert procfile
