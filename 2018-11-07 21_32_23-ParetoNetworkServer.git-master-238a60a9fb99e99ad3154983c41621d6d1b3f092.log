@@ -1,0 +1,6 @@
+
+ 
+commit 238a60a9fb99e99ad3154983c41621d6d1b3f092
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Nov 07 2018 16:32:23 GMT-0500 (Colombia Standard Time)
+    Fixes #253 Status String, Showing Etherscan Address, Fixes Sending to BackEnd, Fixes Some Bugs
