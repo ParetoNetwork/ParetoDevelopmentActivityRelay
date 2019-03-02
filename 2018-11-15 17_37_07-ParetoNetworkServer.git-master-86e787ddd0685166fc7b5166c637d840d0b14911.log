@@ -1,0 +1,6 @@
+
+ 
+commit 86e787ddd0685166fc7b5166c637d840d0b14911
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Nov 15 2018 12:37:07 GMT-0500 (Colombia Standard Time)
+    disable middleware for CDN solution
