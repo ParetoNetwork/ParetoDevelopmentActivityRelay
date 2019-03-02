@@ -1,0 +1,6 @@
+
+ 
+commit 48d00b19d82c461a90690ead50cb270d77d4951c
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Dec 21 2018 18:11:30 GMT-0500 (Colombia Standard Time)
+    Added Vuex States for Deposit
