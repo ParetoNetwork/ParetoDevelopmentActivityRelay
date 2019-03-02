@@ -1,0 +1,6 @@
+
+ 
+commit d06d43e7b1ecbf80134004763718af282a899e8f
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Mon Aug 27 2018 18:04:56 GMT-0500 (Colombia Standard Time)
+    build front-end and add condition on bulkwrite
