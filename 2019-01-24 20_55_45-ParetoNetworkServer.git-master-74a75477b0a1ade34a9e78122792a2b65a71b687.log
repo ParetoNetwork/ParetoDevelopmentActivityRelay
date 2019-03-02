@@ -1,0 +1,6 @@
+
+ 
+commit 74a75477b0a1ade34a9e78122792a2b65a71b687
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Jan 24 2019 15:55:45 GMT-0500 (Colombia Standard Time)
+    Merge branch '469-URL-ALIAS' into 487-SLUG-UNIQUENESS
