@@ -1,0 +1,6 @@
+
+ 
+commit a44503838fa0ca90bdeab3ccfff66206b69040b1
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Wed Aug 15 2018 08:59:44 GMT-0500 (Colombia Standard Time)
+    add help commnad and get content command
