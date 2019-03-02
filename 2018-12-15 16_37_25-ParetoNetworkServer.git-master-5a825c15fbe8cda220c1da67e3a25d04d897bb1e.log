@@ -1,0 +1,10 @@
+
+ 
+commit 5a825c15fbe8cda220c1da67e3a25d04d897bb1e
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Sat Dec 15 2018 11:37:25 GMT-0500 (Colombia Standard Time)
+    Merge branch 'development' of github.com:ParetoNetwork/ParetoNetworkServer into 378-LEADERBOARD-FLASHES
+
+Conflicts:
+	public/css/app.a8d7d564.css
+	public/index.html
