@@ -1,0 +1,6 @@
+
+ 
+commit bdf8a4f0d10148ddfa45a0bcab7dd999f385cffd
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Nov 28 2018 11:04:15 GMT-0500 (Colombia Standard Time)
+    Fixes #392 Showing description on the title. Added tag for description and Fixed Keywords
