@@ -1,0 +1,6 @@
+
+ 
+commit adbb1d8ccf9ea88b8fa65ef62737633948081d55
+Author:	Sheraz Arshad <sheraz1392@gmail.com>
+Date:	Sun Aug 19 2018 23:36:06 GMT-0500 (Colombia Standard Time)
+    take dynamic token amount input for rewards
