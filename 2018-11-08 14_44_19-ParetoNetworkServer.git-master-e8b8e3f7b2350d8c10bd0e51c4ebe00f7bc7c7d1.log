@@ -1,0 +1,6 @@
+
+ 
+commit e8b8e3f7b2350d8c10bd0e51c4ebe00f7bc7c7d1
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Nov 08 2018 09:44:19 GMT-0500 (Colombia Standard Time)
+    Fixes #253 Can not Reward Same Intel While Transaction Pending
