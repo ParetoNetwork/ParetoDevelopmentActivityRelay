@@ -1,0 +1,6 @@
+
+ 
+commit 9d499145b864d0a1d1a73981f40d72faefebea01
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Tue Jan 15 2019 01:35:55 GMT-0500 (Colombia Standard Time)
+    disable some worker logs (related to web socket)
