@@ -1,0 +1,6 @@
+
+ 
+commit 609b315f660f5219bb708c87f628408063e18a24
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Thu Sep 06 2018 12:54:14 GMT-0500 (Colombia Standard Time)
+    Fixes #147 cosmetic changes, intel reward modal and not showing reward button on same user address
