@@ -1,0 +1,6 @@
+
+ 
+commit 4e1bd8cdb97cf407baad605f482d172d0e296b10
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Nov 13 2018 18:39:04 GMT-0500 (Colombia Standard Time)
+    Fixes #318 Changed Button Distributed to Show When Time Expires
