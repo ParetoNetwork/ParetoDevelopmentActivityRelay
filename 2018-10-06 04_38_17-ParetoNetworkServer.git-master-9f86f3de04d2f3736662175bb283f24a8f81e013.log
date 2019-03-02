@@ -1,0 +1,6 @@
+
+ 
+commit 9f86f3de04d2f3736662175bb283f24a8f81e013
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Oct 05 2018 23:38:17 GMT-0500 (Colombia Standard Time)
+    upgrades web pack, down the rabbit hole just to install the legacy typed data function
