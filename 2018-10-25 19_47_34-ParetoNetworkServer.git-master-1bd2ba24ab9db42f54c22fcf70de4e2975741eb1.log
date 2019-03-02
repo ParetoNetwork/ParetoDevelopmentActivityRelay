@@ -1,0 +1,8 @@
+
+ 
+commit 1bd2ba24ab9db42f54c22fcf70de4e2975741eb1
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Oct 25 2018 14:47:34 GMT-0500 (Colombia Standard Time)
+    Merge pull request #294 from ParetoNetwork/staging
+
+sending memory cache optimizations up to master
