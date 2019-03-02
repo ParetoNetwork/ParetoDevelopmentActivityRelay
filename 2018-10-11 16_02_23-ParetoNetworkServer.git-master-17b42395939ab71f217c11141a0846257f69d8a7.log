@@ -1,0 +1,6 @@
+
+ 
+commit 17b42395939ab71f217c11141a0846257f69d8a7
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Thu Oct 11 2018 11:02:23 GMT-0500 (Colombia Standard Time)
+    Fixes #208 Created component for intel feed
