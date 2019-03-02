@@ -1,0 +1,6 @@
+
+ 
+commit 158013caa7172213e573d94dc395897a0776669a
+Author:	joel <joel@mobileaws.com>
+Date:	Fri Jan 04 2019 20:09:06 GMT-0500 (Colombia Standard Time)
+    removing package-lock.json
