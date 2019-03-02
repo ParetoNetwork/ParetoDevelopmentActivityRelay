@@ -1,0 +1,6 @@
+
+ 
+commit d58fe2da6044de69eefc6fd3a678a0a369eba719
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Sep 19 2018 15:33:51 GMT-0500 (Colombia Standard Time)
+    fixes #219 disable reward button when expires or has not intelAddress associated
