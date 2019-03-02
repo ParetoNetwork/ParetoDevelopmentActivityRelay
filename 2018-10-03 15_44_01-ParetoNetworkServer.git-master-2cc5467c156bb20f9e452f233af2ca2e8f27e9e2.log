@@ -1,0 +1,6 @@
+
+ 
+commit 2cc5467c156bb20f9e452f233af2ca2e8f27e9e2
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Wed Oct 03 2018 10:44:01 GMT-0500 (Colombia Standard Time)
+    Fixes #211 Changed bottom nav layout, also working for responsive design
