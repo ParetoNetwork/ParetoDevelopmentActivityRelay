@@ -1,0 +1,8 @@
+
+ 
+commit cef8af5f0226934996595bdd1f09f79d34bc3318
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Oct 22 2018 17:49:14 GMT-0500 (Colombia Standard Time)
+    Merge pull request #278 from ParetoNetwork/change_balance_updated
+
+Fixes #274
