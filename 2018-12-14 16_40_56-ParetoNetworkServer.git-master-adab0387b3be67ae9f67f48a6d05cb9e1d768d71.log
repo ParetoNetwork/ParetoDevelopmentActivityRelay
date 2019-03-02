@@ -1,0 +1,6 @@
+
+ 
+commit adab0387b3be67ae9f67f48a6d05cb9e1d768d71
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Dec 14 2018 11:40:56 GMT-0500 (Colombia Standard Time)
+    Fixes 423, change min_delta relative to the last score
