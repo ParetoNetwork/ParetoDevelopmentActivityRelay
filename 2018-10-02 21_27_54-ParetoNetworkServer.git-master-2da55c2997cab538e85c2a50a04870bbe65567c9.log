@@ -1,0 +1,6 @@
+
+ 
+commit 2da55c2997cab538e85c2a50a04870bbe65567c9
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Tue Oct 02 2018 16:27:54 GMT-0500 (Colombia Standard Time)
+    Fixes #211 Created NODE Service for fetching CoinMarket Data
