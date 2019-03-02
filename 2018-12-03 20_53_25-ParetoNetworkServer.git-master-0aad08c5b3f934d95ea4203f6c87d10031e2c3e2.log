@@ -1,0 +1,6 @@
+
+ 
+commit 0aad08c5b3f934d95ea4203f6c87d10031e2c3e2
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Mon Dec 03 2018 15:53:25 GMT-0500 (Colombia Standard Time)
+    Fixes #379 Pull and Build
