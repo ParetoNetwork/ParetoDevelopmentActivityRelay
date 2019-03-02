@@ -1,0 +1,10 @@
+
+ 
+commit ac0705f085da229b91452e3180dae036dca1babb
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Sep 24 2018 22:07:34 GMT-0500 (Colombia Standard Time)
+    Merge branch 'staging' of github.com:ParetoNetwork/ParetoNetworkServer into development
+
+Conflicts:
+	build/contracts/Intel.json
+	build/contracts/Migrations.json
