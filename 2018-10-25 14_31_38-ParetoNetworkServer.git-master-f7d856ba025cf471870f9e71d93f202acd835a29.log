@@ -1,0 +1,8 @@
+
+ 
+commit f7d856ba025cf471870f9e71d93f202acd835a29
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Oct 25 2018 09:31:38 GMT-0500 (Colombia Standard Time)
+    Merge pull request #290 from ParetoNetwork/correctGasPrice
+
+correct gas price
