@@ -1,0 +1,6 @@
+
+ 
+commit 69934233ba090eb9d35a24fb99257a4659938002
+Author:	Sheraz Arshad <sheraz1392@gmail.com>
+Date:	Wed Nov 28 2018 14:19:19 GMT-0500 (Colombia Standard Time)
+    set expiry time to 20 minutes for Intel
