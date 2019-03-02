@@ -1,0 +1,8 @@
+
+ 
+commit b1a886e49910f464f5df8f1e9c02b5d14330d095
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Jan 28 2019 19:59:14 GMT-0500 (Colombia Standard Time)
+    Merge pull request #492 from ParetoNetwork/487-SLUG-UNIQUENESS
+
+Fixes #487 Applied some corrections
