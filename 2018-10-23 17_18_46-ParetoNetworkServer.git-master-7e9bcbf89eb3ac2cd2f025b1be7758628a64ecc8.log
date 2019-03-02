@@ -1,0 +1,8 @@
+
+ 
+commit 7e9bcbf89eb3ac2cd2f025b1be7758628a64ecc8
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Tue Oct 23 2018 12:18:46 GMT-0500 (Colombia Standard Time)
+    Merge pull request #280 from ParetoNetwork/redis_fix
+
+Redis fix
