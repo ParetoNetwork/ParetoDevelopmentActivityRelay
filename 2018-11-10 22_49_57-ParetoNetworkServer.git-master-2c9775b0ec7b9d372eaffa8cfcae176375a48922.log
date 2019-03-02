@@ -1,0 +1,6 @@
+
+ 
+commit 2c9775b0ec7b9d372eaffa8cfcae176375a48922
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Sat Nov 10 2018 17:49:57 GMT-0500 (Colombia Standard Time)
+    is it !== '' or !== ""
