@@ -1,0 +1,6 @@
+
+ 
+commit 18c2f67dca70e9e58a7faf3701f1953887f4c0ed
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Wed Aug 15 2018 10:13:38 GMT-0500 (Colombia Standard Time)
+    Fixes #127 Gradient Animation, On loading request
