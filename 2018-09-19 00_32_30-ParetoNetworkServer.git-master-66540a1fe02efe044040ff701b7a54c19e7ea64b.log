@@ -1,0 +1,6 @@
+
+ 
+commit 66540a1fe02efe044040ff701b7a54c19e7ea64b
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Sep 18 2018 19:32:30 GMT-0500 (Colombia Standard Time)
+    Fixes #104 #102 override ledger function to allow timeout 30s, call again when timeout
