@@ -1,0 +1,8 @@
+
+ 
+commit 769cbb7aa32fba01e18bcfec9ae0a09c332a4e80
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Aug 09 2018 12:33:58 GMT-0500 (Colombia Standard Time)
+    Merge pull request #121 from ParetoNetwork/Implement-vuejs
+
+Implement vuejs
