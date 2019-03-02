@@ -1,0 +1,8 @@
+
+ 
+commit 64427c0839ef21c900efabb9131c701b0cb9aece
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Sun Sep 16 2018 15:38:28 GMT-0500 (Colombia Standard Time)
+    Merge pull request #199 from ParetoNetwork/feature-ledger-view-tweaks
+
+added clipboard and etherscan links, and remove substring on addresse…
