@@ -1,0 +1,8 @@
+
+ 
+commit 02f4e7f6b109a2c4ff9860f448f5fb93818399d3
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Tue Aug 21 2018 11:28:49 GMT-0500 (Colombia Standard Time)
+    Merge pull request #138 from ParetoNetwork/feature-cosmetic-tweaks
+
+spacing and blocks/blocksago disambiguity
