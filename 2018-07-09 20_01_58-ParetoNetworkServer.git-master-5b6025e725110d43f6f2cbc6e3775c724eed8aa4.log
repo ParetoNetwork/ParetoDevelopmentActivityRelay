@@ -1,0 +1,8 @@
+
+ 
+commit 5b6025e725110d43f6f2cbc6e3775c724eed8aa4
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Jul 09 2018 15:01:58 GMT-0500 (Colombia Standard Time)
+    Merge pull request #89 from ParetoNetwork/better_error_handling
+
+Fixes #88
