@@ -1,0 +1,6 @@
+
+ 
+commit 9a807390f476b76585585379c57954e896c4fe29
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Tue Jan 22 2019 17:16:07 GMT-0500 (Colombia Standard Time)
+    weird conditional for difference between local system and server
