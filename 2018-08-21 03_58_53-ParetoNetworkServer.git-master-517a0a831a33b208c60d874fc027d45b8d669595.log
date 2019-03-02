@@ -1,0 +1,6 @@
+
+ 
+commit 517a0a831a33b208c60d874fc027d45b8d669595
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Aug 20 2018 22:58:53 GMT-0500 (Colombia Standard Time)
+    adds limits to content query
