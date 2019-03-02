@@ -1,0 +1,6 @@
+
+ 
+commit 63c985f679394d6d3751e00f41c15bf97651dd34
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Nov 01 2018 07:24:43 GMT-0500 (Colombia Standard Time)
+    new parser to remove deprecation warnings
