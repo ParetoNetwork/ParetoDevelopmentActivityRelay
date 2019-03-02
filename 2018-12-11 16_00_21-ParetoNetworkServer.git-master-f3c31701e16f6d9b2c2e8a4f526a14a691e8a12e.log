@@ -1,0 +1,8 @@
+
+ 
+commit f3c31701e16f6d9b2c2e8a4f526a14a691e8a12e
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Tue Dec 11 2018 11:00:21 GMT-0500 (Colombia Standard Time)
+    Merge pull request #429 from ParetoNetwork/397-SITE-MAP
+
+Fixes #397 Configured History Mode, Created Sitemap
