@@ -1,0 +1,6 @@
+
+ 
+commit d82934b494fc1d2496510e0c8d60357106a75785
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Nov 02 2018 15:56:14 GMT-0500 (Colombia Standard Time)
+    Merge branch 'development' of https://github.com/ParetoNetwork/ParetoNetworkServer into reward_state_management
