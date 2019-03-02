@@ -1,0 +1,6 @@
+
+ 
+commit 9c2d2ca08489df17b12474a37daed99a766db703
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Sat Nov 10 2018 23:56:40 GMT-0500 (Colombia Standard Time)
+    if (value), for null, undefined, NaN, empty string (""), 0, or false... duh
