@@ -1,0 +1,8 @@
+
+ 
+commit 45de2616d7e93acfb8089e01a0081e212194d68c
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Oct 24 2018 14:59:07 GMT-0500 (Colombia Standard Time)
+    Merge pull request #283 from ParetoNetwork/clock_worker
+
+Clock worker
