@@ -1,0 +1,6 @@
+
+ 
+commit 952ed45cee928285c5e3070b295d6ee6632ea07f
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Jan 10 2019 09:56:28 GMT-0500 (Colombia Standard Time)
+    Fixes #427 Flex Button Order Changes for Responsive Behavior
