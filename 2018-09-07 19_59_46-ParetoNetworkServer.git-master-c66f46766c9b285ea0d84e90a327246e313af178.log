@@ -1,0 +1,8 @@
+
+ 
+commit c66f46766c9b285ea0d84e90a327246e313af178
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Sep 07 2018 14:59:46 GMT-0500 (Colombia Standard Time)
+    Merge pull request #176 from ParetoNetwork/feature-modify-bottom-nav
+
+bottom nav tweaks, FAB removed
