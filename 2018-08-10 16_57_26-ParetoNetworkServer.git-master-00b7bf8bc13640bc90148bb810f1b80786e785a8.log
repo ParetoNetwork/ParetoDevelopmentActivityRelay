@@ -1,0 +1,6 @@
+
+ 
+commit 00b7bf8bc13640bc90148bb810f1b80786e785a8
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Aug 10 2018 11:57:26 GMT-0500 (Colombia Standard Time)
+    change contractCreationBlockHeightHexString
