@@ -1,0 +1,6 @@
+
+ 
+commit 2b2e7bae81c2af664d92d39dc8c595dfc5480501
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Jul 24 2018 09:03:38 GMT-0500 (Colombia Standard Time)
+    ignore package-lock.json
