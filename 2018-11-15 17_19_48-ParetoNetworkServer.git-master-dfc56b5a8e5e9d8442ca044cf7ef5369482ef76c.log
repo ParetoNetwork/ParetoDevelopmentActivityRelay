@@ -1,0 +1,8 @@
+
+ 
+commit dfc56b5a8e5e9d8442ca044cf7ef5369482ef76c
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Nov 15 2018 12:19:48 GMT-0500 (Colombia Standard Time)
+    Merge pull request #367 from ParetoNetwork/development
+
+profile fixes, feed, detail view, leaderboard and ssl tweak
