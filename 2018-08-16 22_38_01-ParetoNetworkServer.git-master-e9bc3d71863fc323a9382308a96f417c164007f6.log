@@ -1,0 +1,6 @@
+
+ 
+commit e9bc3d71863fc323a9382308a96f417c164007f6
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Aug 16 2018 17:38:01 GMT-0500 (Colombia Standard Time)
+    Fixes #124 CountUp Started, Creating CountUp Configuration for Score
