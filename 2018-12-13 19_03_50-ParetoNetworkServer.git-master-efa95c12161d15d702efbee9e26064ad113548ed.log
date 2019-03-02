@@ -1,0 +1,6 @@
+
+ 
+commit efa95c12161d15d702efbee9e26064ad113548ed
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Dec 13 2018 14:03:50 GMT-0500 (Colombia Standard Time)
+    Fixes #378 Leaderboard Flashes, Created Effect and Change on Socket
