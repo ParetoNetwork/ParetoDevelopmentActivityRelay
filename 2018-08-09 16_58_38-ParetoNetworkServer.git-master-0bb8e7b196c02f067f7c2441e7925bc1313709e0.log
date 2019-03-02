@@ -1,0 +1,6 @@
+
+ 
+commit 0bb8e7b196c02f067f7c2441e7925bc1313709e0
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Aug 09 2018 11:58:38 GMT-0500 (Colombia Standard Time)
+    Merge branch 'server_changes' of pareto-network:ParetoNetwork/ParetoNetworkServer into Implement-vuejs
