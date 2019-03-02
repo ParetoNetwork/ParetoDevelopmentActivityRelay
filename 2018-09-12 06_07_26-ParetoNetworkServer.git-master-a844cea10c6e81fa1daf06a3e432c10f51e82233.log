@@ -1,0 +1,6 @@
+
+ 
+commit a844cea10c6e81fa1daf06a3e432c10f51e82233
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Sep 12 2018 01:07:26 GMT-0500 (Colombia Standard Time)
+    revert package.json change
