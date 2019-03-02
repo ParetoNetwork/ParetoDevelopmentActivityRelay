@@ -1,0 +1,6 @@
+
+ 
+commit b1c2bf961faf7dfd2881b90393c194dc00b4fd6e
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Jul 06 2018 17:18:24 GMT-0500 (Colombia Standard Time)
+    backend error handler
