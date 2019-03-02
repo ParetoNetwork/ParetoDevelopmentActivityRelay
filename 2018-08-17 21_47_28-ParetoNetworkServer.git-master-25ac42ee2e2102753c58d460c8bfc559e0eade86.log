@@ -1,0 +1,6 @@
+
+ 
+commit 25ac42ee2e2102753c58d460c8bfc559e0eade86
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Aug 17 2018 16:47:28 GMT-0500 (Colombia Standard Time)
+    Fixes #124 CountUp Usage on Intel, Detail and Leaderboard. Missing Real Time Calculation Yet
