@@ -1,0 +1,6 @@
+
+ 
+commit a25a2fd967801ad78fb75e1f15621fe23a1f8bf6
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Nov 01 2018 15:13:20 GMT-0500 (Colombia Standard Time)
+    Fixes #253 Showing Rewarded Intel Address, Missing Layout Configuration and Socket Refresh
