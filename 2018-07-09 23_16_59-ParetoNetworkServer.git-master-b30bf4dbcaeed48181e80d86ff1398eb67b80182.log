@@ -1,0 +1,8 @@
+
+ 
+commit b30bf4dbcaeed48181e80d86ff1398eb67b80182
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Jul 09 2018 18:16:59 GMT-0500 (Colombia Standard Time)
+    Merge pull request #90 from ParetoNetwork/better_error_handling
+
+test must be past ethereum server bussy error
