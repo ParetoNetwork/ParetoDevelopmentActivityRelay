@@ -1,0 +1,6 @@
+
+ 
+commit e34e173e724f1cfcd53b0bde14134386352b5916
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Sep 07 2018 16:25:14 GMT-0500 (Colombia Standard Time)
+    get url  client socket from domain
