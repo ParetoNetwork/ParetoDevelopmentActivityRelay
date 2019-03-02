@@ -1,0 +1,6 @@
+
+ 
+commit bcc3c2d64c8adbfa7b71afadfeb013f87b3e2b16
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Sep 28 2018 10:16:42 GMT-0500 (Colombia Standard Time)
+    Merge branch 'development' of https://github.com/ParetoNetwork/ParetoNetworkServer into fix_jsoncontract
