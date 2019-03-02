@@ -1,0 +1,6 @@
+
+ 
+commit 80891b4cd8880f6d1b6938e91837d9537cfa0706
+Author:	Sheraz Arshad <sheraz1392@gmail.com>
+Date:	Tue Aug 28 2018 16:01:47 GMT-0500 (Colombia Standard Time)
+    fix create intel error when metamask pop up is discarded
