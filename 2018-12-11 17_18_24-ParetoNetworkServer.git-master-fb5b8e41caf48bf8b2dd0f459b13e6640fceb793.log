@@ -1,0 +1,8 @@
+
+ 
+commit fb5b8e41caf48bf8b2dd0f459b13e6640fceb793
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Tue Dec 11 2018 12:18:24 GMT-0500 (Colombia Standard Time)
+    Merge pull request #430 from ParetoNetwork/397-SITE-MAP
+
+Fixes #397 Added /api-docs to Hosting Routes
