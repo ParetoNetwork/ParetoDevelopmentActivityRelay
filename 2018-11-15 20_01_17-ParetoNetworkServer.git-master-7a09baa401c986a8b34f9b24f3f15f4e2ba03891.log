@@ -1,0 +1,8 @@
+
+ 
+commit 7a09baa401c986a8b34f9b24f3f15f4e2ba03891
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Nov 15 2018 15:01:17 GMT-0500 (Colombia Standard Time)
+    Revert "disable middleware for CDN solution"
+
+This reverts commit 86e787ddd0685166fc7b5166c637d840d0b14911.
