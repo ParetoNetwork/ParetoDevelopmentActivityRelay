@@ -1,0 +1,6 @@
+
+ 
+commit 29bb394035c7217c5a2b8f8324a0384bcaa8098d
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Dec 27 2018 12:39:50 GMT-0500 (Colombia Standard Time)
+    fix hash query
