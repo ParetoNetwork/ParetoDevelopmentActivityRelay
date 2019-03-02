@@ -1,0 +1,6 @@
+
+ 
+commit e7942f38d27d272cc4db1ccbebcd3dc898e7fb4f
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Tue Sep 04 2018 10:55:48 GMT-0500 (Colombia Standard Time)
+    Fixes #123 infinite scrolling for both components and fixed some changes
