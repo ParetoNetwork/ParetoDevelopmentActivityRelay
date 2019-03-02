@@ -1,0 +1,6 @@
+
+ 
+commit 065a1d12861d30bf3fff64fde3f3b17f934dd528
+Author:	Sheraz Arshad <sheraz1392@gmail.com>
+Date:	Wed Nov 14 2018 08:18:59 GMT-0500 (Colombia Standard Time)
+    make scheduler start on worker server
