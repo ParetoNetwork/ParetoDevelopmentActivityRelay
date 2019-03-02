@@ -1,0 +1,6 @@
+
+ 
+commit 77d2d8a181b284771ff674844f341e2495ba985c
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Sep 14 2018 11:14:27 GMT-0500 (Colombia Standard Time)
+    fix error connections on ledgerNano
