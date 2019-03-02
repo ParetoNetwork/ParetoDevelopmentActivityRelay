@@ -1,0 +1,6 @@
+
+ 
+commit 044b89a5f95bfd2d5ec48783563348a7e9e29138
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Sep 24 2018 21:50:30 GMT-0500 (Colombia Standard Time)
+    add additional eth network environment variable for easy switching
