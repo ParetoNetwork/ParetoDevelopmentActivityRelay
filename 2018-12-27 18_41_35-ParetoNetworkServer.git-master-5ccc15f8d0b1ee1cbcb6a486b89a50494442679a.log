@@ -1,0 +1,6 @@
+
+ 
+commit 5ccc15f8d0b1ee1cbcb6a486b89a50494442679a
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Dec 27 2018 13:41:35 GMT-0500 (Colombia Standard Time)
+    Merge branch 'development' of https://github.com/ParetoNetwork/ParetoNetworkServer into 452-IDLE-CONNECTION
