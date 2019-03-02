@@ -1,0 +1,6 @@
+
+ 
+commit 743a925457e71be14d571c26f8e15669a0c89db1
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Aug 29 2018 17:45:32 GMT-0500 (Colombia Standard Time)
+    Fixes #124 Error on distributing results
