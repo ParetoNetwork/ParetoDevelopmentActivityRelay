@@ -1,0 +1,6 @@
+
+ 
+commit 192a8a2215ed137b06616a485cc96b1891c1942a
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Fri Aug 31 2018 10:08:36 GMT-0500 (Colombia Standard Time)
+    Fixes #153 preview should show up dynamically on right handside
