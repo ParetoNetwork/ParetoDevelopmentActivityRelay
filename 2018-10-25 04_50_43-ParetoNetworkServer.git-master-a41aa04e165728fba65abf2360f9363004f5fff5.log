@@ -1,0 +1,8 @@
+
+ 
+commit a41aa04e165728fba65abf2360f9363004f5fff5
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Oct 24 2018 23:50:43 GMT-0500 (Colombia Standard Time)
+    Merge pull request #285 from ParetoNetwork/development
+
+concurrency changes up to staging then master
