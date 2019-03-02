@@ -1,0 +1,6 @@
+
+ 
+commit 65ce49ba7aeb3bb1751631fa2890e61def782564
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Tue Sep 04 2018 16:13:28 GMT-0500 (Colombia Standard Time)
+    Fixes #125 Created component for bottom nav
