@@ -1,0 +1,6 @@
+
+ 
+commit 072295f7bc9c267e725eaa42fe65ab62e7144eb7
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Mon Sep 03 2018 16:38:57 GMT-0500 (Colombia Standard Time)
+    merge development, add pagination content on backend
