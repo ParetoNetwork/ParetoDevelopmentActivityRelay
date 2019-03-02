@@ -1,0 +1,8 @@
+
+ 
+commit ffcccff1a15bde8cceec5af473d6b8028fc6a668
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Jul 11 2018 01:20:20 GMT-0500 (Colombia Standard Time)
+    Merge pull request #95 from ParetoNetwork/Rewards-API
+
+add rewards API and events
