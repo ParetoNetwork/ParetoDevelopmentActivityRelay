@@ -1,0 +1,8 @@
+
+ 
+commit 79e6d8e4b1409fbf70e5fecaa0376897f0cae0d7
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Nov 15 2018 15:29:27 GMT-0500 (Colombia Standard Time)
+    Merge pull request #371 from ParetoNetwork/development
+
+Revert "disable middleware for CDN solution"
