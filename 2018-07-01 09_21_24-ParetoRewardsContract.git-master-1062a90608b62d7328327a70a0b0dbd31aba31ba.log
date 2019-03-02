@@ -1,0 +1,6 @@
+
+ 
+commit 1062a90608b62d7328327a70a0b0dbd31aba31ba
+Author:	Sheraz Arshad <sheraz1392@gmail.com>
+Date:	Sun Jul 01 2018 04:21:24 GMT-0500 (Colombia Standard Time)
+    add fallback function in Intel
