@@ -1,0 +1,6 @@
+
+ 
+commit cc40760c61d1fddbfce578f7598608dbefc06a5e
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Thu Sep 20 2018 17:04:22 GMT-0500 (Colombia Standard Time)
+    Fixes #191 Added Shimmer to Intel and IntelDetail Views
