@@ -1,0 +1,6 @@
+
+ 
+commit c256a84bb38bfcb6ddbfc045dea9a26948e54839
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Tue Aug 28 2018 14:56:52 GMT-0500 (Colombia Standard Time)
+    Fixes #142 created modal for visual process description and form, replaced izitoast with vue-toast
