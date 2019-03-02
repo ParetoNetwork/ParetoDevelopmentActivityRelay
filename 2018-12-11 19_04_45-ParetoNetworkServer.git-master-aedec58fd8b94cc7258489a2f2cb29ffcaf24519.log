@@ -1,0 +1,8 @@
+
+ 
+commit aedec58fd8b94cc7258489a2f2cb29ffcaf24519
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Dec 11 2018 14:04:45 GMT-0500 (Colombia Standard Time)
+    Merge pull request #431 from ParetoNetwork/397-SITE-MAP
+
+Fixes #397 Changed Backslash to api-docs route
