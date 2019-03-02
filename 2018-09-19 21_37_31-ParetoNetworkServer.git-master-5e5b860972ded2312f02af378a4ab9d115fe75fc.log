@@ -1,0 +1,6 @@
+
+ 
+commit 5e5b860972ded2312f02af378a4ab9d115fe75fc
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Wed Sep 19 2018 16:37:31 GMT-0500 (Colombia Standard Time)
+    Fixes Changed Scientific Exponential Notation to Ellipsis
