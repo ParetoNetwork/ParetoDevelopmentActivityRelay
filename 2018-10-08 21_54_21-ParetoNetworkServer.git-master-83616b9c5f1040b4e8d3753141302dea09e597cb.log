@@ -1,0 +1,8 @@
+
+ 
+commit 83616b9c5f1040b4e8d3753141302dea09e597cb
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Oct 08 2018 16:54:21 GMT-0500 (Colombia Standard Time)
+    Merge pull request #255 from ParetoNetwork/add_verifying_contract
+
+Add verifying contract
