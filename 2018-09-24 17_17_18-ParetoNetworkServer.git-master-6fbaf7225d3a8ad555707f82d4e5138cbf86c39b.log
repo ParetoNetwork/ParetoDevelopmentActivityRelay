@@ -1,0 +1,6 @@
+
+ 
+commit 6fbaf7225d3a8ad555707f82d4e5138cbf86c39b
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Mon Sep 24 2018 12:17:18 GMT-0500 (Colombia Standard Time)
+    Fixes #108 Added Warning Notification and Merge with shimmer-loader
