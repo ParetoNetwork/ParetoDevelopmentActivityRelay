@@ -1,0 +1,6 @@
+
+ 
+commit 369739da5fa6e77fdd9bfdb2f05fcb9c4a779bd9
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Sep 21 2018 16:47:38 GMT-0500 (Colombia Standard Time)
+    add reward and createIntel depending on login, LedgerNano or metamask
