@@ -1,0 +1,6 @@
+
+ 
+commit 093f8800b1e01f2f5e0e691aace9766228b95b67
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Thu Jan 24 2019 19:23:58 GMT-0500 (Colombia Standard Time)
+    Platform bot now responds to basic texts. Still pending making the commands work.
