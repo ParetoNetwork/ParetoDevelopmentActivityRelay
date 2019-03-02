@@ -1,0 +1,8 @@
+
+ 
+commit 0d5be09b7c07995cbccd6aa546aff6e9ac07d4ce
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Tue Nov 13 2018 17:47:43 GMT-0500 (Colombia Standard Time)
+    Merge pull request #359 from ParetoNetwork/325-GRAYED-REWARD
+
+ Fixes #325
