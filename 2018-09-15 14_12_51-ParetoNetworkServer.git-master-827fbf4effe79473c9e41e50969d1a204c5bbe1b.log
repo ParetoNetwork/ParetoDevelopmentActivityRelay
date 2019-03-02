@@ -1,0 +1,6 @@
+
+ 
+commit 827fbf4effe79473c9e41e50969d1a204c5bbe1b
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Sat Sep 15 2018 09:12:51 GMT-0500 (Colombia Standard Time)
+    conversion to eth on reward listener
