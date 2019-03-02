@@ -1,0 +1,6 @@
+
+ 
+commit d6ed5b7629312ac123cc7c57662979893ca0d4b0
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Mon Aug 13 2018 14:27:50 GMT-0500 (Colombia Standard Time)
+    Fixes responsive behavior and profile image not rendering from server
