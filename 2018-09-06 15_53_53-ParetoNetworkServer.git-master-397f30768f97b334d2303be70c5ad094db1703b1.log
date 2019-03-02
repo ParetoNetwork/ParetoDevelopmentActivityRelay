@@ -1,0 +1,6 @@
+
+ 
+commit 397f30768f97b334d2303be70c5ad094db1703b1
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Thu Sep 06 2018 10:53:53 GMT-0500 (Colombia Standard Time)
+    Merge branch 'login_ledger_by_address' of https://github.com/ParetoNetwork/ParetoNetworkServer into Implement-vuejs
