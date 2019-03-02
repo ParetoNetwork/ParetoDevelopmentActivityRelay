@@ -1,0 +1,6 @@
+
+ 
+commit e32cd8fe2b0142016bcc010f4d897aa82a1c5346
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Nov 08 2018 14:22:37 GMT-0500 (Colombia Standard Time)
+    Fixes #253 Worker Change, Created Try Catch Block for Transactions That didn't Work
