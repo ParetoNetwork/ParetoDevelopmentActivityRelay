@@ -1,0 +1,6 @@
+
+ 
+commit e955d532515099f68831454ba7b8908326258614
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Tue Oct 23 2018 15:36:29 GMT-0500 (Colombia Standard Time)
+    Fixes #275 User token validation and Decimal Numbers Input Validation
