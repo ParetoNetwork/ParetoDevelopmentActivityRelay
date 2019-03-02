@@ -1,0 +1,6 @@
+
+ 
+commit b4da86b3f9a477dd667676ae57b69ce1dd526370
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Jan 25 2019 15:40:15 GMT-0500 (Colombia Standard Time)
+    Fixes #487 Some modifications to Modal, minor modifications to front-end and backend service for Update Profile
