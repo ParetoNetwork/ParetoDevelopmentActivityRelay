@@ -1,0 +1,8 @@
+
+ 
+commit c6ecf22d67116f310d33866c541ec1790f830091
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Dec 11 2018 14:31:41 GMT-0500 (Colombia Standard Time)
+    Merge pull request #432 from ParetoNetwork/397-SITE-MAP
+
+Fixes #397 Added /api-docs to Hosting Routes
