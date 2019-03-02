@@ -1,0 +1,6 @@
+
+ 
+commit 2da6bdafbd33a58cfc82bf45469ff648778ed115
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Jan 24 2019 10:08:13 GMT-0500 (Colombia Standard Time)
+    Fixes #469 Added Address Alias, Fixed Exclude, Intel Feed Bug Behavior
