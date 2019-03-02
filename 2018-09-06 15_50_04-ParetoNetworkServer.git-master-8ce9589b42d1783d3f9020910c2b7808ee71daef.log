@@ -1,0 +1,6 @@
+
+ 
+commit 8ce9589b42d1783d3f9020910c2b7808ee71daef
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Sep 06 2018 10:50:04 GMT-0500 (Colombia Standard Time)
+    update hardware-wallet function to sign a custom  address
