@@ -1,0 +1,8 @@
+
+ 
+commit bb65e735c1f0f326c453efdda527953e0bbf69cf
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Nov 01 2018 11:52:59 GMT-0500 (Colombia Standard Time)
+    Merge pull request #304 from ParetoNetwork/staging
+
+web3 + metamask future proofing (eip 712 and accounts enable)
