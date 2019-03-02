@@ -1,0 +1,6 @@
+
+ 
+commit 149891f7500f7609ff3fbad957fb62847592cd2d
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Nov 14 2018 10:51:39 GMT-0500 (Colombia Standard Time)
+    Fixes 318 test, change transaction response
