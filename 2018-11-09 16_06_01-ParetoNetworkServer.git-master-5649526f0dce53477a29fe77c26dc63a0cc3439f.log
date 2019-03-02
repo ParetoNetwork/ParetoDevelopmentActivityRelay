@@ -1,0 +1,8 @@
+
+ 
+commit 5649526f0dce53477a29fe77c26dc63a0cc3439f
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Nov 09 2018 11:06:01 GMT-0500 (Colombia Standard Time)
+    Merge pull request #313 from ParetoNetwork/cache_gt_zero
+
+Fixes #213
