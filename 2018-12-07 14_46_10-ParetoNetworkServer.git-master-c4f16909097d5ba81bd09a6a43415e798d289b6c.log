@@ -1,0 +1,6 @@
+
+ 
+commit c4f16909097d5ba81bd09a6a43415e798d289b6c
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Dec 07 2018 09:46:10 GMT-0500 (Colombia Standard Time)
+    Fixes #331 Added vue-line-clamp, Tested and Build
