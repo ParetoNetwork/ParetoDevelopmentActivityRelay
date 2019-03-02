@@ -1,0 +1,6 @@
+
+ 
+commit 4646b07f5f8e85e52be545ffbc3d55f0e2f168e1
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Oct 24 2018 07:09:05 GMT-0500 (Colombia Standard Time)
+    modified GC limits due to higher memory available on prod
