@@ -1,0 +1,8 @@
+
+ 
+commit b2d9b4ef61a39e8e16d650d7219db5a137066b6f
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Jun 25 2018 00:37:08 GMT-0500 (Colombia Standard Time)
+    Revert "flipped order of static calls"
+
+This reverts commit 8ed5ba5779553c26ee3a7d8fab9aa20a5ed6873b.
