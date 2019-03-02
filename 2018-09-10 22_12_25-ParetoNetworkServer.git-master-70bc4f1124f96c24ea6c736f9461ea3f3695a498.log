@@ -1,0 +1,6 @@
+
+ 
+commit 70bc4f1124f96c24ea6c736f9461ea3f3695a498
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Mon Sep 10 2018 17:12:25 GMT-0500 (Colombia Standard Time)
+    Fixes #151 Changed Ledger Nano Values from default to Ledger Nano Loader
