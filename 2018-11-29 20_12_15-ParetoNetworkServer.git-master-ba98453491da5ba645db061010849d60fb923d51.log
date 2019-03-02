@@ -1,0 +1,6 @@
+
+ 
+commit ba98453491da5ba645db061010849d60fb923d51
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Nov 29 2018 15:12:15 GMT-0500 (Colombia Standard Time)
+    Created function for url parameters, validate rank and address, some other validations and changes
