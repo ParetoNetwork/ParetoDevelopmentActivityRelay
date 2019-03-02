@@ -1,0 +1,6 @@
+
+ 
+commit b13f830c924c56ec5340486b9114262347781ef8
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Sep 14 2018 02:35:18 GMT-0500 (Colombia Standard Time)
+    Fixes #151 Merge With fix_pastlogs_intel
