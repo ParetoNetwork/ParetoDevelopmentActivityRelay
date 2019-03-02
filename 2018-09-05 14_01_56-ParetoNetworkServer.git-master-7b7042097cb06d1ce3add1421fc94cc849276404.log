@@ -1,0 +1,6 @@
+
+ 
+commit 7b7042097cb06d1ce3add1421fc94cc849276404
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Wed Sep 05 2018 09:01:56 GMT-0500 (Colombia Standard Time)
+    Fixes #124 Socket created for app and minor fix
