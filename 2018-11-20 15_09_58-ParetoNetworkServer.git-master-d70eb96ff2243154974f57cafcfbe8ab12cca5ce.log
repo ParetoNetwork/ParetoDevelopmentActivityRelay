@@ -1,0 +1,6 @@
+
+ 
+commit d70eb96ff2243154974f57cafcfbe8ab12cca5ce
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Nov 20 2018 10:09:58 GMT-0500 (Colombia Standard Time)
+    Created Switch for Pending Transactions. Working, creating code
