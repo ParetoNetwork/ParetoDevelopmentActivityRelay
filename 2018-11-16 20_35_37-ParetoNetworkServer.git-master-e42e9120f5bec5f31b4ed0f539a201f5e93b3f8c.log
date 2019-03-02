@@ -1,0 +1,6 @@
+
+ 
+commit e42e9120f5bec5f31b4ed0f539a201f5e93b3f8c
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Nov 16 2018 15:35:37 GMT-0500 (Colombia Standard Time)
+    Fixes #318 Fixed Bug not Opening Two Modal Tabs, Added Vuex and Changes to Fix this, Improved Code
