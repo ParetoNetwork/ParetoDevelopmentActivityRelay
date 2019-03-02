@@ -1,0 +1,6 @@
+
+ 
+commit 0bf20cc5511ac629d8430b4bcccd97e078a087a6
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Mon Jan 14 2019 10:10:46 GMT-0500 (Colombia Standard Time)
+    Fixes #447 Fixed Routes, Commas and Dot Validation, Nearest Result
