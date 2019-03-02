@@ -1,0 +1,8 @@
+
+ 
+commit a0fcfc682b50f7364d8802c7b265a084c14c3133
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Nov 15 2018 11:28:06 GMT-0500 (Colombia Standard Time)
+    Merge pull request #366 from ParetoNetwork/FIXING-LEADERBOARD-SCROLL
+
+Fixes Auto-Scroll Issue
