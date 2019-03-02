@@ -1,0 +1,6 @@
+
+ 
+commit 16cde8925e2c4f9519ecaa86224526c8bfbd8ac2
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Jul 19 2018 09:24:12 GMT-0500 (Colombia Standard Time)
+    Merge branch 'Implement-vuejs' of pareto-network:ParetoNetwork/ParetoNetworkServer into fix_upload_image
