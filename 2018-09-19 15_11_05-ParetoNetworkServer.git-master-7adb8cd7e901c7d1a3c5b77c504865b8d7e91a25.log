@@ -1,0 +1,6 @@
+
+ 
+commit 7adb8cd7e901c7d1a3c5b77c504865b8d7e91a25
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Wed Sep 19 2018 10:11:05 GMT-0500 (Colombia Standard Time)
+    Fixes #203 clipboard copy completed
