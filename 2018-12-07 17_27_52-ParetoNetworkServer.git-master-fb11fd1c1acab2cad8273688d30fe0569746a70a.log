@@ -1,0 +1,8 @@
+
+ 
+commit fb11fd1c1acab2cad8273688d30fe0569746a70a
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Dec 07 2018 12:27:52 GMT-0500 (Colombia Standard Time)
+    Merge pull request #428 from ParetoNetwork/331-FEED-TITLE-TWO-LINES
+
+Fixes #331 Added vue-line-clamp, Tested and Build
