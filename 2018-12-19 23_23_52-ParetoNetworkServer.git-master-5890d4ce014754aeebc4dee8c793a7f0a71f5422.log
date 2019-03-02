@@ -1,0 +1,6 @@
+
+ 
+commit 5890d4ce014754aeebc4dee8c793a7f0a71f5422
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Dec 19 2018 18:23:52 GMT-0500 (Colombia Standard Time)
+    Fixed all the Vuex Logic, mains problems and issues. Added some effects and stuff
