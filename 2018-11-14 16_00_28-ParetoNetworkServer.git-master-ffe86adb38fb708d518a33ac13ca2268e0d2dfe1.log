@@ -1,0 +1,8 @@
+
+ 
+commit ffe86adb38fb708d518a33ac13ca2268e0d2dfe1
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Nov 14 2018 11:00:28 GMT-0500 (Colombia Standard Time)
+    Merge pull request #360 from ParetoNetwork/distribute_reward
+
+Fixes #318
