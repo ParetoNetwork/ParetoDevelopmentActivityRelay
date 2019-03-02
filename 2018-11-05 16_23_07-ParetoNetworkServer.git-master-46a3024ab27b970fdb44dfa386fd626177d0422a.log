@@ -1,0 +1,8 @@
+
+ 
+commit 46a3024ab27b970fdb44dfa386fd626177d0422a
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Nov 05 2018 11:23:07 GMT-0500 (Colombia Standard Time)
+    Merge pull request #305 from ParetoNetwork/fix_clock_score
+
+fix tokens and score equals zero
