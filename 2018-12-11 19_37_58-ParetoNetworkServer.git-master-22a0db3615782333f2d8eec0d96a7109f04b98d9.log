@@ -1,0 +1,6 @@
+
+ 
+commit 22a0db3615782333f2d8eec0d96a7109f04b98d9
+Author:	hansospina <hansospina@gmail.com>
+Date:	Tue Dec 11 2018 14:37:58 GMT-0500 (Colombia Standard Time)
+    Fixes #397 Added /api-docs to Hosting Routes
