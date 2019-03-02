@@ -1,0 +1,6 @@
+
+ 
+commit 61b8c9696f43a5bc7f5a5bff44021a6b05e54536
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Nov 14 2018 09:43:09 GMT-0500 (Colombia Standard Time)
+    Fixes #318 BackEnd Errors, Debugging, Some Front End and Layout Changes
