@@ -1,0 +1,8 @@
+
+ 
+commit a5e4f2d408aaad84b6cafbabd657470e4dbcb1c9
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Sat Oct 20 2018 09:45:32 GMT-0500 (Colombia Standard Time)
+    Merge pull request #269 from ParetoNetwork/score_when_reward
+
+Score when reward
