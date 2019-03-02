@@ -1,0 +1,6 @@
+
+ 
+commit 44d7ebd53a612f034f2f2dc1de3204d0ec00332a
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Oct 19 2018 17:59:03 GMT-0500 (Colombia Standard Time)
+    Fixes #268, update score, tokens, and rank when user does an action
