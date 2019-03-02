@@ -1,0 +1,6 @@
+
+ 
+commit c9e313bf72c526c83adf89da5083652f7012d8d6
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Sep 13 2018 16:49:19 GMT-0500 (Colombia Standard Time)
+    add some comments on websocket functions
