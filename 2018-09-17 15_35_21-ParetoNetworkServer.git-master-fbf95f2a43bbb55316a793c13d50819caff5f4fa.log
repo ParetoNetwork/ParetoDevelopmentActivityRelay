@@ -1,0 +1,6 @@
+
+ 
+commit fbf95f2a43bbb55316a793c13d50819caff5f4fa
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Mon Sep 17 2018 10:35:21 GMT-0500 (Colombia Standard Time)
+    Merge branch 'development' of https://github.com/ParetoNetwork/ParetoNetworkServer into fix_pending_post
