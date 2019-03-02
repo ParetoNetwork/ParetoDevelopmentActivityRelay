@@ -1,0 +1,6 @@
+
+ 
+commit f388b72a9cabcca8c34570eb7e8efd02e563ab12
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Aug 10 2018 10:14:23 GMT-0500 (Colombia Standard Time)
+    put variable instead of stringliteral paretocontract
