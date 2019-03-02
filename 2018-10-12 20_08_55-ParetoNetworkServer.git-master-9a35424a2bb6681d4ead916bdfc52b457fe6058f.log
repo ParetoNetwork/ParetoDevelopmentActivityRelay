@@ -1,0 +1,6 @@
+
+ 
+commit 9a35424a2bb6681d4ead916bdfc52b457fe6058f
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Fri Oct 12 2018 15:08:55 GMT-0500 (Colombia Standard Time)
+    Fixes #208 Created component and fixing Socket
