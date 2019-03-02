@@ -1,0 +1,6 @@
+
+ 
+commit b954ac25fbb38b1a33e8f72a06666506c67419a0
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Nov 15 2018 16:15:33 GMT-0500 (Colombia Standard Time)
+    Created Buttons for Feed and Events, But Changing it to Button Component
