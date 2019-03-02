@@ -1,0 +1,8 @@
+
+ 
+commit aff7db9151a9b202a728f2a7010098ba48311998
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Tue Dec 04 2018 10:32:56 GMT-0500 (Colombia Standard Time)
+    Merge pull request #417 from ParetoNetwork/staging
+
+memcache init tweak live
