@@ -1,0 +1,6 @@
+
+ 
+commit f2a655af484a0c3a18b1f7e45949d3970afe6406
+Author:	Sheraz Arshad <sheraz1392@gmail.com>
+Date:	Fri Sep 14 2018 06:24:57 GMT-0500 (Colombia Standard Time)
+    add functionality for tracking rewards made and receievd by an address
