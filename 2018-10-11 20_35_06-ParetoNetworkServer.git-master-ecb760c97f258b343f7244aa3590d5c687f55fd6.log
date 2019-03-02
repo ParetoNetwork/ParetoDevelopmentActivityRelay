@@ -1,0 +1,8 @@
+
+ 
+commit ecb760c97f258b343f7244aa3590d5c687f55fd6
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Oct 11 2018 15:35:06 GMT-0500 (Colombia Standard Time)
+    Merge pull request #264 from ParetoNetwork/fix_sign_issue
+
+Fix sign issue
