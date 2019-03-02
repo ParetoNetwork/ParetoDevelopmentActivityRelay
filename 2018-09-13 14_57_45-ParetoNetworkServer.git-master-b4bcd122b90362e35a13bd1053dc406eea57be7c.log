@@ -1,0 +1,6 @@
+
+ 
+commit b4bcd122b90362e35a13bd1053dc406eea57be7c
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Sep 13 2018 09:57:45 GMT-0500 (Colombia Standard Time)
+    get intl address from mongo to reward
