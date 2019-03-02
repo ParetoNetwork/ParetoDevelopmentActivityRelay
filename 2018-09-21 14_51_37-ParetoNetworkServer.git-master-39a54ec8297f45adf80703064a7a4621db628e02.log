@@ -1,0 +1,6 @@
+
+ 
+commit 39a54ec8297f45adf80703064a7a4621db628e02
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Fri Sep 21 2018 09:51:37 GMT-0500 (Colombia Standard Time)
+    Fixes #105 Implemented Shimmer for Leaderboard
