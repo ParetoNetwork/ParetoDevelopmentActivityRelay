@@ -1,0 +1,8 @@
+
+ 
+commit 8b7fd871414dbc1c379242d2c72823ea2b98ecce
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Oct 11 2018 12:39:28 GMT-0500 (Colombia Standard Time)
+    Merge pull request #262 from ParetoNetwork/development
+
+slug updates, reward counting fixed on backend and frontend (although GUI WIP)
