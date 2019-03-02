@@ -1,0 +1,8 @@
+
+ 
+commit 18fd88175316c30a3d60443a8e7e3e19a96c997c
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Nov 15 2018 12:54:07 GMT-0500 (Colombia Standard Time)
+    Merge pull request #370 from ParetoNetwork/staging
+
+disable middleware for CDN solution
