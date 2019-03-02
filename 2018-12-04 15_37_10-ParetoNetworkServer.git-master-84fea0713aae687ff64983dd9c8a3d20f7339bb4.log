@@ -1,0 +1,6 @@
+
+ 
+commit 84fea0713aae687ff64983dd9c8a3d20f7339bb4
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Dec 04 2018 10:37:10 GMT-0500 (Colombia Standard Time)
+    Fixes #363 Created Gravatar URL, Added to Service with REGEX, Pull and Build, All Working
