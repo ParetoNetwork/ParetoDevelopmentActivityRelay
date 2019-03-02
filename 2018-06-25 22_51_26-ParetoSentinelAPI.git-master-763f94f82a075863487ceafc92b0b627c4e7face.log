@@ -1,0 +1,6 @@
+
+ 
+commit 763f94f82a075863487ceafc92b0b627c4e7face
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Jun 25 2018 17:51:26 GMT-0500 (Colombia Standard Time)
+    changed tags, spelling, security start (no api_key used anywhere)
