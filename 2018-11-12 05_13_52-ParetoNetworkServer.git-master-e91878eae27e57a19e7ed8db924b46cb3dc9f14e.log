@@ -1,0 +1,6 @@
+
+ 
+commit e91878eae27e57a19e7ed8db924b46cb3dc9f14e
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Nov 12 2018 00:13:52 GMT-0500 (Colombia Standard Time)
+    build with profile intel var tweak
