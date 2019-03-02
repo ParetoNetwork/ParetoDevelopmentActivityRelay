@@ -1,0 +1,8 @@
+
+ 
+commit 2643b246913cabac222d9e5d2665632dca03fdc7
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Mon Jan 28 2019 17:19:38 GMT-0500 (Colombia Standard Time)
+    Muting members on the group works.
+Connection and integration to mongodb works.
+Next step: whitelisting properly.
