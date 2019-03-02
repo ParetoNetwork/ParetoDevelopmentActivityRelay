@@ -1,0 +1,6 @@
+
+ 
+commit 0ff697107b40e5bfaf7dd81d0d94fe3c5ab910b0
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Nov 12 2018 00:12:59 GMT-0500 (Colombia Standard Time)
+    intel.address instead of profile.address
