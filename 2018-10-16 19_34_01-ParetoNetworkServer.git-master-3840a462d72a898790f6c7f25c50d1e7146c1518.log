@@ -1,0 +1,6 @@
+
+ 
+commit 3840a462d72a898790f6c7f25c50d1e7146c1518
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Tue Oct 16 2018 14:34:01 GMT-0500 (Colombia Standard Time)
+    Fixes #208 Both components working, infinite scroll, service and debugg
