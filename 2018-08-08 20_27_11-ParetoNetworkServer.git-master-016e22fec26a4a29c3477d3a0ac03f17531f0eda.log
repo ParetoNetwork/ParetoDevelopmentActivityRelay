@@ -1,0 +1,6 @@
+
+ 
+commit 016e22fec26a4a29c3477d3a0ac03f17531f0eda
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Aug 08 2018 15:27:11 GMT-0500 (Colombia Standard Time)
+    Fixes #116 Added s to the http URL reference
