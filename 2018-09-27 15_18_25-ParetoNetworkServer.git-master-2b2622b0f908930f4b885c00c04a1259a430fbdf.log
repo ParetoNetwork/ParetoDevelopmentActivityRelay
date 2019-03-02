@@ -1,0 +1,8 @@
+
+ 
+commit 2b2622b0f908930f4b885c00c04a1259a430fbdf
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Sep 27 2018 10:18:25 GMT-0500 (Colombia Standard Time)
+    Merge pull request #235 from ParetoNetwork/remove_score_intel
+
+Remove score intel
