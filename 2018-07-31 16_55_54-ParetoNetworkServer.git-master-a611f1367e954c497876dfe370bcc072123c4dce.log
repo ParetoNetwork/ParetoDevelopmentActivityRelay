@@ -1,0 +1,6 @@
+
+ 
+commit a611f1367e954c497876dfe370bcc072123c4dce
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Jul 31 2018 11:55:54 GMT-0500 (Colombia Standard Time)
+    Fixes #22 Show modal with different authentication ways when user click in Access button
