@@ -1,0 +1,8 @@
+
+ 
+commit cb7bfa81b97d16bc307807eed5e421cca72670fc
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Nov 14 2018 12:07:09 GMT-0500 (Colombia Standard Time)
+    Merge pull request #358 from ParetoNetwork/distributeScheduler
+
+Distribute scheduler
