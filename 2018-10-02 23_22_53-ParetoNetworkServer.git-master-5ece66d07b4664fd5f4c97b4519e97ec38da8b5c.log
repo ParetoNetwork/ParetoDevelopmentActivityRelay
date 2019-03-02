@@ -1,0 +1,6 @@
+
+ 
+commit 5ece66d07b4664fd5f4c97b4519e97ec38da8b5c
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Oct 02 2018 18:22:53 GMT-0500 (Colombia Standard Time)
+    support eth_signTypedData_v3
