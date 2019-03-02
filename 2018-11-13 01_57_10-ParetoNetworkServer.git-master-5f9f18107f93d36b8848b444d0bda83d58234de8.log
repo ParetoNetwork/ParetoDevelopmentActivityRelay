@@ -1,0 +1,6 @@
+
+ 
+commit 5f9f18107f93d36b8848b444d0bda83d58234de8
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Nov 12 2018 20:57:10 GMT-0500 (Colombia Standard Time)
+    load environment variables just once
