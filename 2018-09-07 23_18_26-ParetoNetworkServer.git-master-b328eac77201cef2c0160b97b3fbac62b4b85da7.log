@@ -1,0 +1,8 @@
+
+ 
+commit b328eac77201cef2c0160b97b3fbac62b4b85da7
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Sep 07 2018 18:18:26 GMT-0500 (Colombia Standard Time)
+    Merge pull request #178 from ParetoNetwork/fix_websocket
+
+Fix websocket
