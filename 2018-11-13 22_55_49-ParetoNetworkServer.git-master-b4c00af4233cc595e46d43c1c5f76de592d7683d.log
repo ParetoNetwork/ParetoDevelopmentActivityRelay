@@ -1,0 +1,6 @@
+
+ 
+commit b4c00af4233cc595e46d43c1c5f76de592d7683d
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Nov 13 2018 17:55:49 GMT-0500 (Colombia Standard Time)
+    add distribute function on VIntelDetail

@@ -1,0 +1,8 @@
+
+ 
+commit e15efc12ebdde421ac0ffa7dc9b6cb3c8c6db8c4
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Tue Dec 11 2018 14:57:07 GMT-0500 (Colombia Standard Time)
+    Merge pull request #434 from ParetoNetwork/development
+
+link color fix, sitemap added, hashbang route removed

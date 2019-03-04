@@ -1,0 +1,6 @@
+
+ 
+commit de3cfc163623646fa4f8bc3049ca4925d6d68b92
+Author:	Sheraz Arshad <sheraz1392@gmail.com>
+Date:	Wed Jan 30 2019 23:12:21 GMT-0500 (Colombia Standard Time)
+    add checks for allowance and implement the enable interaction functionality

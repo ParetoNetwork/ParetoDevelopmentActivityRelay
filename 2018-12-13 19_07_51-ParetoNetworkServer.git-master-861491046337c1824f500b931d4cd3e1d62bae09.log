@@ -1,0 +1,6 @@
+
+ 
+commit 861491046337c1824f500b931d4cd3e1d62bae09
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Dec 13 2018 14:07:51 GMT-0500 (Colombia Standard Time)
+    remove active and inactive redis queue when server restart

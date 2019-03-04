@@ -1,0 +1,6 @@
+
+ 
+commit 4f8b9a4299ce6225443a179bab6525cbc3695c81
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Sep 12 2018 16:22:45 GMT-0500 (Colombia Standard Time)
+    websocket reconnection

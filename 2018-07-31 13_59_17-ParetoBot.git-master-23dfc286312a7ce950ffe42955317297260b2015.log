@@ -1,0 +1,6 @@
+
+ 
+commit 23dfc286312a7ce950ffe42955317297260b2015
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Tue Jul 31 2018 08:59:17 GMT-0500 (Colombia Standard Time)
+    change message string, add environment server url

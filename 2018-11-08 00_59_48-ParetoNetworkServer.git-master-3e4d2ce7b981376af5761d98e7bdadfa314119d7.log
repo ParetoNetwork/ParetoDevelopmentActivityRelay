@@ -1,0 +1,6 @@
+
+ 
+commit 3e4d2ce7b981376af5761d98e7bdadfa314119d7
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Nov 07 2018 19:59:48 GMT-0500 (Colombia Standard Time)
+    improve status functions, validate address

@@ -1,0 +1,6 @@
+
+ 
+commit 496b0a51858d8a150c544c7fb5d603e078012d59
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Apr 04 2018 22:24:56 GMT-0500 (Colombia Standard Time)
+    procfile update  MAXIMUM MEMORY RAM USE SET TO less than 512MB, if RAM is increased this file must change! (Note: Max node.js V8 RAM is 1.5GB)

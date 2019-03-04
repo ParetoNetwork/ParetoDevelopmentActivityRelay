@@ -1,0 +1,6 @@
+
+ 
+commit 43a65bf4bb3293309527029a6c393e2cab12642c
+Author:	Sheraz Arshad <sheraz1392@gmail.com>
+Date:	Tue Sep 11 2018 11:48:59 GMT-0500 (Colombia Standard Time)
+    add API for fetching conntrobutos for an Intel/ add function in Intel contract for fetching contributos/ change intel time to 10 days /

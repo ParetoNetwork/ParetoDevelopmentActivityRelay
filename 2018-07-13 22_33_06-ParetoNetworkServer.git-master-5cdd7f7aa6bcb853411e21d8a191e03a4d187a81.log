@@ -1,0 +1,6 @@
+
+ 
+commit 5cdd7f7aa6bcb853411e21d8a191e03a4d187a81
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Jul 13 2018 17:33:06 GMT-0500 (Colombia Standard Time)
+    Revert "add rewards API and events"

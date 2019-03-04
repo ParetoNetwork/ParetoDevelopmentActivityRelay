@@ -1,0 +1,8 @@
+
+ 
+commit 93aacf1a2a1d80473d7526039514ff01d9d93ed8
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Nov 07 2018 18:04:35 GMT-0500 (Colombia Standard Time)
+    Merge pull request #308 from ParetoNetwork/feature-links
+
+messaging tweaks, sans frontend build

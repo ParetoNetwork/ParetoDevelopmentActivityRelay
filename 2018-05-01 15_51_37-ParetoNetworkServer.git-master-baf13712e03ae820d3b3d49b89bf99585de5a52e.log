@@ -1,0 +1,8 @@
+
+ 
+commit baf13712e03ae820d3b3d49b89bf99585de5a52e
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Tue May 01 2018 10:51:37 GMT-0500 (Colombia Standard Time)
+    Merge pull request #16 from ParetoNetwork/circleci
+
+Circleci

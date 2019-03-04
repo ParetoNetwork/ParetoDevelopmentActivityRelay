@@ -1,0 +1,6 @@
+
+ 
+commit 3a33c8bd1247c6da1a2261c33852b1d101a071b7
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Nov 01 2018 13:37:22 GMT-0500 (Colombia Standard Time)
+    Fixes #253 Created mutation process and sending params

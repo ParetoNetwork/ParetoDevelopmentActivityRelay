@@ -1,0 +1,6 @@
+
+ 
+commit f5e4140c28c538137a0277884d37332a5a1d1ef8
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Nov 16 2018 12:20:35 GMT-0500 (Colombia Standard Time)
+    Fixes #318 Distributed New Component for Button, Added New Status Sent

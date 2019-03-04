@@ -1,0 +1,6 @@
+
+ 
+commit 77884ed26d27f5c0f77a672c129e637322f8b28d
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Nov 15 2018 17:23:35 GMT-0500 (Colombia Standard Time)
+    Fixes Created Component for Intel Event Button Actions, but Collect Failing

@@ -1,0 +1,6 @@
+
+ 
+commit 38ed275ca94ffa65cfebded5f7c394274019c42f
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Nov 30 2018 11:19:25 GMT-0500 (Colombia Standard Time)
+    Fixes #342 Added q param on front-end, all working

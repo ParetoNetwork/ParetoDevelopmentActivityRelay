@@ -1,0 +1,6 @@
+
+ 
+commit 798df23445a3d23166adf37928b839f668d8dc08
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Mon Oct 08 2018 16:28:24 GMT-0500 (Colombia Standard Time)
+    Fixes #198 Intel Slug Object Id route intel detail to transaction ID (CONDITIONALLY)

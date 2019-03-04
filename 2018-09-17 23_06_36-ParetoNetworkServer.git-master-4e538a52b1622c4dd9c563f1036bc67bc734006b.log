@@ -1,0 +1,6 @@
+
+ 
+commit 4e538a52b1622c4dd9c563f1036bc67bc734006b
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Sep 17 2018 18:06:36 GMT-0500 (Colombia Standard Time)
+    use contract environment variable

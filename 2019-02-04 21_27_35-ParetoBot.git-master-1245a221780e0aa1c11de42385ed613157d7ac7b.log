@@ -1,0 +1,6 @@
+
+ 
+commit 1245a221780e0aa1c11de42385ed613157d7ac7b
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Feb 04 2019 16:27:35 GMT-0500 (Colombia Standard Time)
+    Merge branch 'development' into fix-unhandled-promises

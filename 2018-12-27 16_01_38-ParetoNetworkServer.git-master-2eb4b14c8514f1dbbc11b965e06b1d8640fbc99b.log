@@ -1,0 +1,6 @@
+
+ 
+commit 2eb4b14c8514f1dbbc11b965e06b1d8640fbc99b
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Dec 27 2018 11:01:38 GMT-0500 (Colombia Standard Time)
+    Fixes #452 idle connection

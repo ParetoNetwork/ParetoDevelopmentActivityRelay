@@ -1,0 +1,6 @@
+
+ 
+commit 16a833ae4608383917cdd6ba4bfae34606550261
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Mon Sep 24 2018 11:05:26 GMT-0500 (Colombia Standard Time)
+    Fixes #108 conflict with shimmer-loader

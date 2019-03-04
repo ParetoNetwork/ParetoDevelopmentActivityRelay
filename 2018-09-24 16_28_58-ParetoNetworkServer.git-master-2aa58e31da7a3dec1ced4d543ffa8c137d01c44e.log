@@ -1,0 +1,6 @@
+
+ 
+commit 2aa58e31da7a3dec1ced4d543ffa8c137d01c44e
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Mon Sep 24 2018 11:28:58 GMT-0500 (Colombia Standard Time)
+    Fixes #108 Added Missing background color class

@@ -1,0 +1,10 @@
+
+ 
+commit e10d2c4a1807144f50e7f66d90d151be2162d0cf
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Feb 06 2019 19:24:06 GMT-0500 (Colombia Standard Time)
+    Merge branch 'master' of github.com:ParetoNetwork/ParetoIntelDeploymentContract
+
+# Conflicts:
+#	migrations/2_deploy_Intel.js
+#	migrations/3_deploy_dummyToken.js

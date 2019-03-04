@@ -1,0 +1,6 @@
+
+ 
+commit 9b015c915edcae13b9eeab2acdd0f0bec3428214
+Author:	Sheraz Arshad <sheraz1392@gmail.com>
+Date:	Fri Aug 31 2018 18:38:12 GMT-0500 (Colombia Standard Time)
+    refactoring code related to the process of intel creation and fixing the broken infura ropsten's broken websocket url

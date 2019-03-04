@@ -1,0 +1,8 @@
+
+ 
+commit ea5e409179c3cbdfd8276f884cc86e7c12436a41
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Sun Sep 30 2018 14:48:05 GMT-0500 (Colombia Standard Time)
+    Merge pull request #239 from ParetoNetwork/staging
+
+merging in scoring updates via websockets, interaction with rewards contract V1, ledger signin updates and GUI updates

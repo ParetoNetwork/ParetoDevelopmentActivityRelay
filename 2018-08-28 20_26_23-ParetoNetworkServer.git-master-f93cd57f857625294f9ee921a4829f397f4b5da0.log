@@ -1,0 +1,6 @@
+
+ 
+commit f93cd57f857625294f9ee921a4829f397f4b5da0
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Aug 28 2018 15:26:23 GMT-0500 (Colombia Standard Time)
+    remove vue-izitoast from package.json

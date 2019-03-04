@@ -1,0 +1,6 @@
+
+ 
+commit 0bad17725c0e3dadaa7cac3f39e11e0cb3a560a0
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Thu Jun 21 2018 18:59:10 GMT-0500 (Colombia Standard Time)
+    sign and updatescore are in different process

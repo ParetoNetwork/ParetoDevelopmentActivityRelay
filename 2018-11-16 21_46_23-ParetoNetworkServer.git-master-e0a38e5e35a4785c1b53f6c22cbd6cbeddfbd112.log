@@ -1,0 +1,8 @@
+
+ 
+commit e0a38e5e35a4785c1b53f6c22cbd6cbeddfbd112
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Nov 16 2018 16:46:23 GMT-0500 (Colombia Standard Time)
+    Merge pull request #377 from ParetoNetwork/distribute_reward
+
+Distribute reward button changes

@@ -1,0 +1,6 @@
+
+ 
+commit bbb045cd3f47c01c129ac559a6ea6e5ee9229a08
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Aug 08 2018 16:22:35 GMT-0500 (Colombia Standard Time)
+    merge, change sign way eth-signTypeData not allow

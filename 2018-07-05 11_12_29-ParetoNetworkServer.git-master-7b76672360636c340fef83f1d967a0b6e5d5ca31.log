@@ -1,0 +1,8 @@
+
+ 
+commit 7b76672360636c340fef83f1d967a0b6e5d5ca31
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Jul 05 2018 06:12:29 GMT-0500 (Colombia Standard Time)
+    Merge pull request #87 from ParetoNetwork/AboutPageResponsive
+
+fixes #60

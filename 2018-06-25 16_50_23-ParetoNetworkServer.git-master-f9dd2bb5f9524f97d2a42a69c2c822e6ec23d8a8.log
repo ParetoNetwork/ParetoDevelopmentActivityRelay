@@ -1,0 +1,8 @@
+
+ 
+commit f9dd2bb5f9524f97d2a42a69c2c822e6ec23d8a8
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Jun 25 2018 11:50:23 GMT-0500 (Colombia Standard Time)
+    Merge pull request #78 from ParetoNetwork/development
+
+moving upstream for better performance

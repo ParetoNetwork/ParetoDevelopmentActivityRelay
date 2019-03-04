@@ -1,0 +1,6 @@
+
+ 
+commit 457a1f75f2a387dcf118ebedebbc2a56ed1468e6
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Mon Aug 06 2018 12:02:10 GMT-0500 (Colombia Standard Time)
+    Fixes Responsive Behavior, Correct Infinity Scroll Bug

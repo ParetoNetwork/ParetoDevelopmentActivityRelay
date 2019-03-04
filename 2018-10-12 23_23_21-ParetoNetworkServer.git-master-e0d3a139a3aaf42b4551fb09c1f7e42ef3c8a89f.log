@@ -1,0 +1,6 @@
+
+ 
+commit e0d3a139a3aaf42b4551fb09c1f7e42ef3c8a89f
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Fri Oct 12 2018 18:23:21 GMT-0500 (Colombia Standard Time)
+    Fixes #208 Working fetch with specific address but with some bugs

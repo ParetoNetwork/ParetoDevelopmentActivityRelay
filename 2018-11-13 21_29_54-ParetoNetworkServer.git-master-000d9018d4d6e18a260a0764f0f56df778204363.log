@@ -1,0 +1,6 @@
+
+ 
+commit 000d9018d4d6e18a260a0764f0f56df778204363
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Nov 13 2018 16:29:54 GMT-0500 (Colombia Standard Time)
+    Fixes #315 Fix Intel Detail Error not Loading Component, Code for Button Reward was Missing, Created Component for Reward Modal, Created Vuex State

@@ -1,0 +1,6 @@
+
+ 
+commit 6c6dff3a2871f522f72e390adb30e5bc88e66cf4
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Oct 25 2018 11:05:39 GMT-0500 (Colombia Standard Time)
+    update redis connections

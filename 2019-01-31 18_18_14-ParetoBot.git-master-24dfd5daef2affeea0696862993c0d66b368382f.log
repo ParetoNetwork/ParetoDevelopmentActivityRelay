@@ -1,0 +1,6 @@
+
+ 
+commit 24dfd5daef2affeea0696862993c0d66b368382f
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Thu Jan 31 2019 13:18:14 GMT-0500 (Colombia Standard Time)
+    Restricting and promoting users work. Added controller for randomized questions and answers. Some basic questions added. Added cron job to handle whitelist expiration.

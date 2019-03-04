@@ -1,0 +1,6 @@
+
+ 
+commit f850e44c3a3156ff829e68f4a852b4c46c1152da
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Apr 06 2018 15:02:47 GMT-0500 (Colombia Standard Time)
+    error handling on address signing, for logs primarily, to figure out what the real problem is.

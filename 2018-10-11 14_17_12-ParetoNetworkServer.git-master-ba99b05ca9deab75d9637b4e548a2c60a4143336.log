@@ -1,0 +1,8 @@
+
+ 
+commit ba99b05ca9deab75d9637b4e548a2c60a4143336
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Oct 11 2018 09:17:12 GMT-0500 (Colombia Standard Time)
+    Merge pull request #259 from ParetoNetwork/fix_transaction_duplicate
+
+Fix transaction duplicate

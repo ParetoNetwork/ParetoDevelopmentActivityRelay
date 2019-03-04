@@ -1,0 +1,6 @@
+
+ 
+commit e2d3cdc867b40900f1c6598646d528163cf28f85
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Nov 29 2018 10:25:13 GMT-0500 (Colombia Standard Time)
+    Fixes #379 add historical snapshot everyday, add + - = in redis for attributes rank, score and tokens

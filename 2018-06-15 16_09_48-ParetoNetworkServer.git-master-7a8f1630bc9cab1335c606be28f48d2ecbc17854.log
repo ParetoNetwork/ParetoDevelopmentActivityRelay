@@ -1,0 +1,8 @@
+
+ 
+commit 7a8f1630bc9cab1335c606be28f48d2ecbc17854
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Jun 15 2018 11:09:48 GMT-0500 (Colombia Standard Time)
+    Merge pull request #39 from ParetoNetwork/fixtokenredis
+
+add $ to variables block and tokens when fecth mongo

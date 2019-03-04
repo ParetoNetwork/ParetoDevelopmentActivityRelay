@@ -1,0 +1,8 @@
+
+ 
+commit 3d8841e578c8a6e6545ca71a264c5fc69c6a76db
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Tue Feb 12 2019 18:19:32 GMT-0500 (Colombia Standard Time)
+    Questions for the quiz are now being loaded from https://github.com/ParetoNetwork/ParetoBotQuiz
+It's a new public repo on the pareto network.
+This fixes issue https://github.com/ParetoNetwork/ParetoBot/issues/53

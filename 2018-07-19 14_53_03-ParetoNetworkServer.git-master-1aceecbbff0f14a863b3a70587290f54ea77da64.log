@@ -1,0 +1,6 @@
+
+ 
+commit 1aceecbbff0f14a863b3a70587290f54ea77da64
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Jul 19 2018 09:53:03 GMT-0500 (Colombia Standard Time)
+    Merge branch 'fix_upload_image' of https://github.com/ParetoNetwork/ParetoNetworkServer into Implement-vuejs

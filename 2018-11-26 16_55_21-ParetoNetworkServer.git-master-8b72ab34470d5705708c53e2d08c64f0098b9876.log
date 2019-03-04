@@ -1,0 +1,8 @@
+
+ 
+commit 8b72ab34470d5705708c53e2d08c64f0098b9876
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Nov 26 2018 11:55:21 GMT-0500 (Colombia Standard Time)
+    Merge pull request #394 from ParetoNetwork/346-REMOVE-SIGNWS
+
+346 remove signws

@@ -1,0 +1,6 @@
+
+ 
+commit b14c0e83366ed518e49c343f91943e470fc6f8aa
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Dec 13 2018 17:25:11 GMT-0500 (Colombia Standard Time)
+    Fixes #378 Leaderboard Flashes Changed for Socket Connectivity

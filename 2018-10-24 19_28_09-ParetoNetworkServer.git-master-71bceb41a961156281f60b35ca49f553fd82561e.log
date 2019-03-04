@@ -1,0 +1,6 @@
+
+ 
+commit 71bceb41a961156281f60b35ca49f553fd82561e
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Oct 24 2018 14:28:09 GMT-0500 (Colombia Standard Time)
+    worker concurrency

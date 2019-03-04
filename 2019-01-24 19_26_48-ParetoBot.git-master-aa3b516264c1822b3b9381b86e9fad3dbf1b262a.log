@@ -1,0 +1,6 @@
+
+ 
+commit aa3b516264c1822b3b9381b86e9fad3dbf1b262a
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Jan 24 2019 14:26:48 GMT-0500 (Colombia Standard Time)
+    modularization for the bot trinity

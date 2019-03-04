@@ -1,0 +1,6 @@
+
+ 
+commit 826fd66ad6107b6afc7b9895287c1d401dc973f4
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Mon Nov 05 2018 11:17:48 GMT-0500 (Colombia Standard Time)
+    fix tokens and score equals zero

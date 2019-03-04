@@ -1,0 +1,6 @@
+
+ 
+commit fcdbf7c2577d366c2de94098514a4d98a60616f7
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Thu Feb 14 2019 20:24:45 GMT-0500 (Colombia Standard Time)
+    New whitelist completed. Separated quiz ranks. Added questions to independent files. Completed rank up on fist quiz.

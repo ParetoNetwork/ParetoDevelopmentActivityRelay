@@ -1,0 +1,6 @@
+
+ 
+commit 7456bf97b82536f33f5f07f12582a89f71234825
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Mon Sep 24 2018 16:12:55 GMT-0500 (Colombia Standard Time)
+    add modal waiting on confirm with ledger nano

@@ -1,0 +1,6 @@
+
+ 
+commit f75cb6862c5fd2ba46ab7b421702a28ad7df78e5
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Dec 04 2018 17:23:40 GMT-0500 (Colombia Standard Time)
+    Fixes #363 Random User Images working with Identicon.Js, Fixed a little bug with Profile View not Loading Feed, All working

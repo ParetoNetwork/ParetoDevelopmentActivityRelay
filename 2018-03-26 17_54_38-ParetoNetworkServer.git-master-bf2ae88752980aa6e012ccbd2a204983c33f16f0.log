@@ -1,0 +1,6 @@
+
+ 
+commit bf2ae88752980aa6e012ccbd2a204983c33f16f0
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Mar 26 2018 12:54:38 GMT-0500 (Colombia Standard Time)
+    adding content/dashboard page, using rudimentary datatable for now

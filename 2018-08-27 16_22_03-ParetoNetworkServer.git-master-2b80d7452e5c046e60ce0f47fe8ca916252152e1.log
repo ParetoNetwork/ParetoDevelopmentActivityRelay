@@ -1,0 +1,6 @@
+
+ 
+commit 2b80d7452e5c046e60ce0f47fe8ca916252152e1
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Mon Aug 27 2018 11:22:03 GMT-0500 (Colombia Standard Time)
+    Fixes #84 table size and missing some alerts to izitoast change

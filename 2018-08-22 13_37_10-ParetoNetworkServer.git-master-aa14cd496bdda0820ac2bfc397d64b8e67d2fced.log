@@ -1,0 +1,6 @@
+
+ 
+commit aa14cd496bdda0820ac2bfc397d64b8e67d2fced
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Aug 22 2018 08:37:10 GMT-0500 (Colombia Standard Time)
+    websocket and cron jobs in order to keep the information updated

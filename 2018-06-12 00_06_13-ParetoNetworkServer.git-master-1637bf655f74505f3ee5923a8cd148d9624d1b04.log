@@ -1,0 +1,6 @@
+
+ 
+commit 1637bf655f74505f3ee5923a8cd148d9624d1b04
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Jun 11 2018 19:06:13 GMT-0500 (Colombia Standard Time)
+    api docs made public, undesired endpoint removed

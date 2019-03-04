@@ -1,0 +1,6 @@
+
+ 
+commit 9aa3456b6717f7edc91497d5f4b8903f7b631f42
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Jul 24 2018 16:44:46 GMT-0500 (Colombia Standard Time)
+    fixes login session issues

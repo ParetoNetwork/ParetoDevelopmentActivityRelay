@@ -1,0 +1,8 @@
+
+ 
+commit 945a0f8b85579a0674fcb68c75f2936747298a25
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Aug 24 2018 14:58:10 GMT-0500 (Colombia Standard Time)
+    Merge pull request #150 from ParetoNetwork/hd_path_chooser
+
+add path chooser

@@ -1,0 +1,8 @@
+
+ 
+commit d2c6add7618a543e2a6311c68c1cbcf24e503d03
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Dec 03 2018 19:39:03 GMT-0500 (Colombia Standard Time)
+    Merge pull request #411 from ParetoNetwork/development
+
+tx hash update + leaderboard code from sprint

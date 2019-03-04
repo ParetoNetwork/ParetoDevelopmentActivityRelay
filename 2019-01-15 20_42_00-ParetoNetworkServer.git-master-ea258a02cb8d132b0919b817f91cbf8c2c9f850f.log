@@ -1,0 +1,6 @@
+
+ 
+commit ea258a02cb8d132b0919b817f91cbf8c2c9f850f
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Jan 15 2019 15:42:00 GMT-0500 (Colombia Standard Time)
+    change concurrency and priority queue

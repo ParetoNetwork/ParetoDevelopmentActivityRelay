@@ -1,0 +1,6 @@
+
+ 
+commit 0db3b06c5fca940a15924783ac509fcebb399a17
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Aug 24 2018 18:00:28 GMT-0500 (Colombia Standard Time)
+    communication front end and server via web socket

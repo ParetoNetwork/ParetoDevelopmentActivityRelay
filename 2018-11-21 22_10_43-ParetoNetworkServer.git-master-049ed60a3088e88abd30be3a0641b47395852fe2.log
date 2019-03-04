@@ -1,0 +1,6 @@
+
+ 
+commit 049ed60a3088e88abd30be3a0641b47395852fe2
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Nov 21 2018 17:10:43 GMT-0500 (Colombia Standard Time)
+    Fixes #346 remove /signws

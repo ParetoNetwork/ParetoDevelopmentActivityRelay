@@ -1,0 +1,6 @@
+
+ 
+commit 210898eb3f107d7cf142aa0159cc07615e11c5f6
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Feb 06 2019 19:23:08 GMT-0500 (Colombia Standard Time)
+    fix for mainnet deployment shitshow

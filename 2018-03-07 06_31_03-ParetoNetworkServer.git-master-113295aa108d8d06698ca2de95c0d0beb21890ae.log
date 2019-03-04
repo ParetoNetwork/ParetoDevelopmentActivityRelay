@@ -1,0 +1,6 @@
+
+ 
+commit 113295aa108d8d06698ca2de95c0d0beb21890ae
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Mar 07 2018 01:31:03 GMT-0500 (Colombia Standard Time)
+    more db functions, and concurrency added

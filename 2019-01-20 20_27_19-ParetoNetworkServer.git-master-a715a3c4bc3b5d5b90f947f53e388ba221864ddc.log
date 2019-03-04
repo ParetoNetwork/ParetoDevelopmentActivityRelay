@@ -1,0 +1,8 @@
+
+ 
+commit a715a3c4bc3b5d5b90f947f53e388ba221864ddc
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Sun Jan 20 2019 15:27:19 GMT-0500 (Colombia Standard Time)
+    Merge pull request #483 from ParetoNetwork/453-HANDLE-STRESS-TEST
+
+Fixes #453 Added Rate Limiter with Redis configuration, Tested and Build

@@ -1,0 +1,6 @@
+
+ 
+commit 2f485cadc345992d3933fe65657afbe6933f28fe
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Jun 15 2018 16:11:42 GMT-0500 (Colombia Standard Time)
+    Merge branch 'unit_test' of https://github.com/ParetoNetwork/ParetoNetworkServer into Implement-vuejs

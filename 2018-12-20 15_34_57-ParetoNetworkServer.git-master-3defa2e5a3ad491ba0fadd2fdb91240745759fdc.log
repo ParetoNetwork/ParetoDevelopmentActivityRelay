@@ -1,0 +1,6 @@
+
+ 
+commit 3defa2e5a3ad491ba0fadd2fdb91240745759fdc
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Dec 20 2018 10:34:57 GMT-0500 (Colombia Standard Time)
+    Fixes #340 Deleted some debug logs

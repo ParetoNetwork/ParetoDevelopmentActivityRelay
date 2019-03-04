@@ -1,0 +1,6 @@
+
+ 
+commit 181734ed556f5a151fc6fb2dd14d12fed1cdb561
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Tue Jun 26 2018 18:15:45 GMT-0500 (Colombia Standard Time)
+    Initial commit. Project setup, bot configuration and creation. Added event to read incoming communications from the chat.

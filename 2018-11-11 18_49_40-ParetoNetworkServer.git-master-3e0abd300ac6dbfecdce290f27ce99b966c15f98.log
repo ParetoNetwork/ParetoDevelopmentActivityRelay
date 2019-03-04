@@ -1,0 +1,6 @@
+
+ 
+commit 3e0abd300ac6dbfecdce290f27ce99b966c15f98
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Sun Nov 11 2018 13:49:40 GMT-0500 (Colombia Standard Time)
+    disables expandable bottom nav, hides bottom nav buttons, adds metadata to intel feed items

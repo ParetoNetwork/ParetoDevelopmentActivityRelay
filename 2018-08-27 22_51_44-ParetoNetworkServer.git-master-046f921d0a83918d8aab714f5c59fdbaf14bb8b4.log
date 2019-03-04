@@ -1,0 +1,6 @@
+
+ 
+commit 046f921d0a83918d8aab714f5c59fdbaf14bb8b4
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Mon Aug 27 2018 17:51:44 GMT-0500 (Colombia Standard Time)
+    Fixes Jquery, BT and summernote references changed from cdn to import

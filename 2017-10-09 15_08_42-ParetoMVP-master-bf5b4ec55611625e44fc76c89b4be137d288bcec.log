@@ -1,0 +1,6 @@
+
+ 
+commit bf5b4ec55611625e44fc76c89b4be137d288bcec
+Author:	udayavmoksha <udaya@vmokshagroup.com>
+Date:	Mon Oct 09 2017 10:08:42 GMT-0500 (Colombia Standard Time)
+    added local working copy which works based on pooling

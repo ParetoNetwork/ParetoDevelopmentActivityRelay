@@ -1,0 +1,6 @@
+
+ 
+commit cc4c2a444a1b31ef9b57eebd35516bb0014209ef
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Wed Aug 15 2018 14:42:55 GMT-0500 (Colombia Standard Time)
+    Fixes #127 Animate top-nav css gradient working

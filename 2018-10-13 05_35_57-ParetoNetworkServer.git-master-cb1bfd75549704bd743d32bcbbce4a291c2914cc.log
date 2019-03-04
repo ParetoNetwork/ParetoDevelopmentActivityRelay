@@ -1,0 +1,8 @@
+
+ 
+commit cb1bfd75549704bd743d32bcbbce4a291c2914cc
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Sat Oct 13 2018 00:35:57 GMT-0500 (Colombia Standard Time)
+    Merge pull request #266 from ParetoNetwork/staging
+
+fixes address not found error, implements signing fix on master/production

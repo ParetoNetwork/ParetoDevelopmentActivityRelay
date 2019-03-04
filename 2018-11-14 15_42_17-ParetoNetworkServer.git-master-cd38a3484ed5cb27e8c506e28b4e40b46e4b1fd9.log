@@ -1,0 +1,6 @@
+
+ 
+commit cd38a3484ed5cb27e8c506e28b4e40b46e4b1fd9
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Nov 14 2018 10:42:17 GMT-0500 (Colombia Standard Time)
+    Fixes #318 websockets response

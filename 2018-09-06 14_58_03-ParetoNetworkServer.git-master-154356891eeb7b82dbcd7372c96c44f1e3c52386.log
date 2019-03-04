@@ -1,0 +1,6 @@
+
+ 
+commit 154356891eeb7b82dbcd7372c96c44f1e3c52386
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Thu Sep 06 2018 09:58:03 GMT-0500 (Colombia Standard Time)
+    Fixes #171 timestamp added for intel and momentjs added showing 'N moments ago'

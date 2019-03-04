@@ -1,0 +1,6 @@
+
+ 
+commit 8f396b73849fde6f27959fbb58c3a5b495ac55a5
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Mar 26 2018 21:29:15 GMT-0500 (Colombia Standard Time)
+    added rudimentary percentile calculation, also address validation on content posting

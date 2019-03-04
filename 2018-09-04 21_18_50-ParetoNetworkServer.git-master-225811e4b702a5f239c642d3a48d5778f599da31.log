@@ -1,0 +1,6 @@
+
+ 
+commit 225811e4b702a5f239c642d3a48d5778f599da31
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Sep 04 2018 16:18:50 GMT-0500 (Colombia Standard Time)
+    fix multiple sockets opened

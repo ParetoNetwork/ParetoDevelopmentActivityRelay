@@ -1,0 +1,6 @@
+
+ 
+commit 2371daf9e1bae18011ebd14fd7f8ed54a0b25760
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Thu Feb 07 2019 20:33:11 GMT-0500 (Colombia Standard Time)
+    Added ability to send GIF and Stickers to the bot.

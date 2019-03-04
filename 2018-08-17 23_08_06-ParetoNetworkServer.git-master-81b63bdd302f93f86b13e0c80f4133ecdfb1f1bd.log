@@ -1,0 +1,6 @@
+
+ 
+commit 81b63bdd302f93f86b13e0c80f4133ecdfb1f1bd
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Fri Aug 17 2018 18:08:06 GMT-0500 (Colombia Standard Time)
+    Fixes #80 Algorithm for Dynamic Video Source

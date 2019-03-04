@@ -1,0 +1,8 @@
+
+ 
+commit f867829e42dd168eaa509b51035ef3d32a49826a
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Sep 17 2018 12:11:55 GMT-0500 (Colombia Standard Time)
+    Merge pull request #210 from ParetoNetwork/fix_pending_post
+
+Fix pending post

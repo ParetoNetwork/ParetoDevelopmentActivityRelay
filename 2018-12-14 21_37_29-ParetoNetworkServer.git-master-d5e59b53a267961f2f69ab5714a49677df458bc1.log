@@ -1,0 +1,8 @@
+
+ 
+commit d5e59b53a267961f2f69ab5714a49677df458bc1
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Dec 14 2018 16:37:29 GMT-0500 (Colombia Standard Time)
+    Merge pull request #443 from ParetoNetwork/423-ADJUST-HISTORICAL
+
+Fixes #423 Fixed Flash Leaderboard

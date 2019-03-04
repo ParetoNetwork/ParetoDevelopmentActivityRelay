@@ -1,0 +1,6 @@
+
+ 
+commit 70757607d462e813d906f0ce111ae887951f576f
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Jan 29 2019 16:53:21 GMT-0500 (Colombia Standard Time)
+    Finished v-profile component with some minor adjustmen details, working on layout for detail

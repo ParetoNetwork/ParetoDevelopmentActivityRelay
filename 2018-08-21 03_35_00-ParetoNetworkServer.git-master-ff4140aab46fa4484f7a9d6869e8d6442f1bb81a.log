@@ -1,0 +1,8 @@
+
+ 
+commit ff4140aab46fa4484f7a9d6869e8d6442f1bb81a
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Aug 20 2018 22:35:00 GMT-0500 (Colombia Standard Time)
+    Merge pull request #136 from ParetoNetwork/feature-mainnet-node
+
+new mainnet node

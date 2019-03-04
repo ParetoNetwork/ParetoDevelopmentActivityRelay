@@ -1,0 +1,8 @@
+
+ 
+commit fadf64bbb9b78e5ae3884a36043d70aa8bc890f8
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Tue Oct 23 2018 19:30:52 GMT-0500 (Colombia Standard Time)
+    Merge pull request #282 from ParetoNetwork/staging
+
+pushing redis and caching fixes up

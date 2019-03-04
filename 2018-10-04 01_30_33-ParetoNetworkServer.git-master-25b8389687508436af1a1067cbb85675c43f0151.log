@@ -1,0 +1,8 @@
+
+ 
+commit 25b8389687508436af1a1067cbb85675c43f0151
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Oct 03 2018 20:30:33 GMT-0500 (Colombia Standard Time)
+    Merge pull request #244 from ParetoNetwork/development
+
+EIP712 test fix

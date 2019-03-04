@@ -1,0 +1,6 @@
+
+ 
+commit f17ee0eb4cebd0a6282c1337bdbbc57f9b06a6bb
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Mon Dec 17 2018 10:11:55 GMT-0500 (Colombia Standard Time)
+    Fixes #451 Fixed Broken Modal

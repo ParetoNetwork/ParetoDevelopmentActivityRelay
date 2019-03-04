@@ -1,0 +1,11 @@
+
+ 
+commit a3f76e45aeaa523b7596517976c4a071df6a9bb8
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Wed Feb 06 2019 19:24:31 GMT-0500 (Colombia Standard Time)
+    Merge remote-tracking branch 'origin/feature-message-before-expiration' into feature-message-before-expiration
+
+# Conflicts:
+#	controllers/controllerSupportbot.js
+#	controllers/controllerWhitelist.js
+#	utils/ParetoConstants.js

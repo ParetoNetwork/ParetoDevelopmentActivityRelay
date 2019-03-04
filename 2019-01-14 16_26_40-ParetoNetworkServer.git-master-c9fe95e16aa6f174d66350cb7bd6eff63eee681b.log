@@ -1,0 +1,8 @@
+
+ 
+commit c9fe95e16aa6f174d66350cb7bd6eff63eee681b
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Jan 14 2019 11:26:40 GMT-0500 (Colombia Standard Time)
+    Merge pull request #471 from ParetoNetwork/447-SCORE-SEARCH-BUGS
+
+Fixes #447 Fixed Routes, Commas and Dot Validation, Nearest Result

@@ -1,0 +1,8 @@
+
+ 
+commit e7b0e2206977206066595015f378e21e62b6452d
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Feb 14 2019 13:32:24 GMT-0500 (Colombia Standard Time)
+    Merge pull request #56 from ParetoNetwork/feature-community-bot-quotes
+
+cron comment out for deployment

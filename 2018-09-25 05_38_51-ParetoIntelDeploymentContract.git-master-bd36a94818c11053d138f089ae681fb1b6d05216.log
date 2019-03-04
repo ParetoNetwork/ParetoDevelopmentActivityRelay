@@ -1,0 +1,6 @@
+
+ 
+commit bd36a94818c11053d138f089ae681fb1b6d05216
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Tue Sep 25 2018 00:38:51 GMT-0500 (Colombia Standard Time)
+    change providers, add contract owner

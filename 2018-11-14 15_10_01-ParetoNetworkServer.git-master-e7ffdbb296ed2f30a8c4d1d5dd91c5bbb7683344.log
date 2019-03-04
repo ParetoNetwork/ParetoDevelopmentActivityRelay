@@ -1,0 +1,6 @@
+
+ 
+commit e7ffdbb296ed2f30a8c4d1d5dd91c5bbb7683344
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Nov 14 2018 10:10:01 GMT-0500 (Colombia Standard Time)
+    Fixes #318 Build and Clean, Fixes Some Errors

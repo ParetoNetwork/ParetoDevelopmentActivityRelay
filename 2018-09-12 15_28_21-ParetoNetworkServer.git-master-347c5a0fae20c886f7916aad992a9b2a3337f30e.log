@@ -1,0 +1,6 @@
+
+ 
+commit 347c5a0fae20c886f7916aad992a9b2a3337f30e
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Sep 12 2018 10:28:21 GMT-0500 (Colombia Standard Time)
+    Fixes #151 Working on Token Amount for Addresses

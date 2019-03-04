@@ -1,0 +1,6 @@
+
+ 
+commit 1a2bfd1d2e8520ce4ded93ee7bfea0bb67fc5b07
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Oct 03 2018 14:58:52 GMT-0500 (Colombia Standard Time)
+    v-if=false on create button, leave it that way

@@ -1,0 +1,6 @@
+
+ 
+commit 18206b7105f3e9c386aeafc8a306281d65bef956
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Nov 08 2018 11:29:48 GMT-0500 (Colombia Standard Time)
+    Fixes #253 Fixing Metamask Instance Bug

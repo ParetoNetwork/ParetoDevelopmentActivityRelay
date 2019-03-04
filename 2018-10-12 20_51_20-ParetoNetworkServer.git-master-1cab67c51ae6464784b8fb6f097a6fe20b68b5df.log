@@ -1,0 +1,6 @@
+
+ 
+commit 1cab67c51ae6464784b8fb6f097a6fe20b68b5df
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Fri Oct 12 2018 15:51:20 GMT-0500 (Colombia Standard Time)
+    Fixes #208 Fixed Socket working

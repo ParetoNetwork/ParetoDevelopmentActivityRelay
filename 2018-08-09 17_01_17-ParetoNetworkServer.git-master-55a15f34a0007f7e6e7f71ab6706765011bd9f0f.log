@@ -1,0 +1,6 @@
+
+ 
+commit 55a15f34a0007f7e6e7f71ab6706765011bd9f0f
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Aug 09 2018 12:01:17 GMT-0500 (Colombia Standard Time)
+    Merge branch 'Implement-vuejs' of https://github.com/ParetoNetwork/ParetoNetworkServer into Implement-vuejs

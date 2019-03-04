@@ -1,0 +1,6 @@
+
+ 
+commit 8d38c275a9802a7b642dcb773be866cf43aae767
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Thu Aug 16 2018 15:06:56 GMT-0500 (Colombia Standard Time)
+    Fixes #80 implemented compressed video webm

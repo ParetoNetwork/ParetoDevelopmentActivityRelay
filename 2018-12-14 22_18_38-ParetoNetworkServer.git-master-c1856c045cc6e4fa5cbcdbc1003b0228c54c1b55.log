@@ -1,0 +1,6 @@
+
+ 
+commit c1856c045cc6e4fa5cbcdbc1003b0228c54c1b55
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Dec 14 2018 17:18:38 GMT-0500 (Colombia Standard Time)
+    Fixes #378 Added Timeout with Random Number Interval (8, 20 Seconds) for Flashes

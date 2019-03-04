@@ -1,0 +1,6 @@
+
+ 
+commit b02f8a8449772aefbebf1bd491357e411cf94e0a
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Sep 14 2018 02:33:34 GMT-0500 (Colombia Standard Time)
+    Fixes #151 Finish Ledger Nano Working, Not Logging

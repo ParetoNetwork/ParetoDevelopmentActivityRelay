@@ -1,0 +1,8 @@
+
+ 
+commit b6caed340330f2e8828eed7776b901fc1c1c3066
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Feb 04 2019 15:41:54 GMT-0500 (Colombia Standard Time)
+    Merge pull request #29 from ParetoNetwork/fix-question-grid
+
+Restricted quiz questions to a 2 column grid. (https://github.com/Par…

@@ -1,0 +1,8 @@
+
+ 
+commit b7ffbabf7fa1b0a913010413053f866d518a84a3
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Jun 18 2018 17:14:07 GMT-0500 (Colombia Standard Time)
+    Merge pull request #51 from ParetoNetwork/staging
+
+merging upstream, fixes sign in  for non metamask

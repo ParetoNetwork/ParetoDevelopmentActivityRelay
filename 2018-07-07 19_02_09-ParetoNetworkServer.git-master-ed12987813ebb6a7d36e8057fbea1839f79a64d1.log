@@ -1,0 +1,6 @@
+
+ 
+commit ed12987813ebb6a7d36e8057fbea1839f79a64d1
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Sat Jul 07 2018 14:02:09 GMT-0500 (Colombia Standard Time)
+    Merge branch 'fix_login_flow' of pareto-network:ParetoNetwork/ParetoNetworkServer into better_error_handling

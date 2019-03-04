@@ -1,0 +1,8 @@
+
+ 
+commit d9fe515d4c54b9e465e1c8c7e85a80a4959cf076
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Jan 25 2019 18:12:36 GMT-0500 (Colombia Standard Time)
+    Merge pull request #11 from ParetoNetwork/fix-multiple-bots-on-one-server
+
+Fix multiple bots on one server

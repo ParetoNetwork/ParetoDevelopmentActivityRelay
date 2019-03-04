@@ -1,0 +1,15 @@
+
+ 
+commit bef8ac70c1a1f68d949d241ffd362adc27081f89
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Sep 07 2018 19:15:58 GMT-0500 (Colombia Standard Time)
+    Merge branch 'development' of github.com:ParetoNetwork/ParetoNetworkServer into feature-modify-bottom-nav
+
+Conflicts:
+	public/css/app.4f2f4ab4.css
+	public/css/app.6933aed7.css
+	public/css/app.80e50f45.css
+	public/index.html
+	public/js/app.24f971d4.js
+	public/js/app.53f13b8a.js
+	public/js/app.65d0a433.js

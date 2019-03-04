@@ -1,0 +1,6 @@
+
+ 
+commit 1ff02c2db5c5c3c397f44600e9aaca7277ba1869
+Author:	Sheraz Arshad <sheraz1392@gmail.com>
+Date:	Thu Jan 31 2019 04:42:17 GMT-0500 (Colombia Standard Time)
+    fix intel expire time to 12 min

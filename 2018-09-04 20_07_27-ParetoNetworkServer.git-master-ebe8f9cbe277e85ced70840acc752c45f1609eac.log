@@ -1,0 +1,6 @@
+
+ 
+commit ebe8f9cbe277e85ced70840acc752c45f1609eac
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Tue Sep 04 2018 15:07:27 GMT-0500 (Colombia Standard Time)
+    Fixes #125 Nav responsive behavior and display information when no info is available

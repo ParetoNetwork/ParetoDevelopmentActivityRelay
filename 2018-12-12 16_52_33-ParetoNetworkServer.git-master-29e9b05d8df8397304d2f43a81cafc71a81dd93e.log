@@ -1,0 +1,6 @@
+
+ 
+commit 29e9b05d8df8397304d2f43a81cafc71a81dd93e
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Dec 12 2018 11:52:33 GMT-0500 (Colombia Standard Time)
+    add last_score and last_rank to ParetoAddress

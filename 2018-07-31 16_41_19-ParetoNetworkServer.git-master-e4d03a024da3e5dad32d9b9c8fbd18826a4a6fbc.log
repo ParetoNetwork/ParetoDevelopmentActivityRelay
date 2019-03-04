@@ -1,0 +1,6 @@
+
+ 
+commit e4d03a024da3e5dad32d9b9c8fbd18826a4a6fbc
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Jul 31 2018 11:41:19 GMT-0500 (Colombia Standard Time)
+    Fixes #47 Infinite Scroll Up Working

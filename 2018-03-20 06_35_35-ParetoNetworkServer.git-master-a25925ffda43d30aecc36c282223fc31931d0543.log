@@ -1,0 +1,6 @@
+
+ 
+commit a25925ffda43d30aecc36c282223fc31931d0543
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Tue Mar 20 2018 01:35:35 GMT-0500 (Colombia Standard Time)
+    remember to uglify , browserify frontend.js | uglifyjs -cm > public/bundle.js

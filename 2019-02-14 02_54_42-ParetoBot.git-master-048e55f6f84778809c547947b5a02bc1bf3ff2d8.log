@@ -1,0 +1,6 @@
+
+ 
+commit 048e55f6f84778809c547947b5a02bc1bf3ff2d8
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Wed Feb 13 2019 21:54:42 GMT-0500 (Colombia Standard Time)
+    First approach on the new whitelist model and flow. It's still a work in progress.

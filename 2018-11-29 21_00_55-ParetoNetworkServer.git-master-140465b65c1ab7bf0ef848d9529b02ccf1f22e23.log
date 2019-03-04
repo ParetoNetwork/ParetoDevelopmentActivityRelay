@@ -1,0 +1,6 @@
+
+ 
+commit 140465b65c1ab7bf0ef848d9529b02ccf1f22e23
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Nov 29 2018 16:00:55 GMT-0500 (Colombia Standard Time)
+    Added errors catching and reloading when url fails, fixed score text size calculation

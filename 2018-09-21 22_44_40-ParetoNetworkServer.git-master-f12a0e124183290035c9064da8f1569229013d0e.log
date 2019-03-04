@@ -1,0 +1,6 @@
+
+ 
+commit f12a0e124183290035c9064da8f1569229013d0e
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Fri Sep 21 2018 17:44:40 GMT-0500 (Colombia Standard Time)
+    Fixes #108 Toast Messages Manually Dismissable

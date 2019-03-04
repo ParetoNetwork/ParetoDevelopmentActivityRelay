@@ -1,0 +1,8 @@
+
+ 
+commit d2e3ab1752065aa33ef9332e4fa27afb41a7aad0
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Sat Oct 06 2018 00:24:49 GMT-0500 (Colombia Standard Time)
+    Revert "v3 test success, but now with _v3 suffix test"
+
+This reverts commit 209058231cad64fbb69ca9b8e2796d3f0d56827a.

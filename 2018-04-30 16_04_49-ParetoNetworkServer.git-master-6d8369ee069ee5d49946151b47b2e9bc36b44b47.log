@@ -1,0 +1,8 @@
+
+ 
+commit 6d8369ee069ee5d49946151b47b2e9bc36b44b47
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Mon Apr 30 2018 11:04:49 GMT-0500 (Colombia Standard Time)
+    Merge pull request #13 from ParetoNetwork/add_local_mongo_and_redis_with_docker
+
+Add local mongo and redis with docker

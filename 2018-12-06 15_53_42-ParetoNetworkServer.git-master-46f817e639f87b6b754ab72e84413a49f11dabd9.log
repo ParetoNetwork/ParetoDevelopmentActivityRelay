@@ -1,0 +1,6 @@
+
+ 
+commit 46f817e639f87b6b754ab72e84413a49f11dabd9
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Dec 06 2018 10:53:42 GMT-0500 (Colombia Standard Time)
+    Fixes #355 Fixed Repeated API calls in various views, created cached values on some vue services, fixed little bug on leaderboard and intel feed scroll and some other changes

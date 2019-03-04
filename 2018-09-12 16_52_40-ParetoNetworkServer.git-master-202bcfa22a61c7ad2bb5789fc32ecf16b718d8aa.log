@@ -1,0 +1,6 @@
+
+ 
+commit 202bcfa22a61c7ad2bb5789fc32ecf16b718d8aa
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Sep 12 2018 11:52:40 GMT-0500 (Colombia Standard Time)
+    handle error when pastlogs request fail

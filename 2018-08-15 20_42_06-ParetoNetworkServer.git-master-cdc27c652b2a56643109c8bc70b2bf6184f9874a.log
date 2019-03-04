@@ -1,0 +1,6 @@
+
+ 
+commit cdc27c652b2a56643109c8bc70b2bf6184f9874a
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Aug 15 2018 15:42:06 GMT-0500 (Colombia Standard Time)
+    Fixes #133 Links From /dashboard To /intel View

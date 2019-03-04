@@ -1,0 +1,8 @@
+
+ 
+commit 2e987fb7af9dc86b7c7902ed2a7f0cd9951c4e0a
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Nov 09 2018 18:30:45 GMT-0500 (Colombia Standard Time)
+    Merge pull request #319 from ParetoNetwork/315-ETHERSCAN-LINKS
+
+Update profileService.js

@@ -1,0 +1,6 @@
+
+ 
+commit 45c5f73ec7d160381aab1d4f0c96ac5f48f88691
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Sep 05 2018 11:22:22 GMT-0500 (Colombia Standard Time)
+    create backend service to get multiple info address

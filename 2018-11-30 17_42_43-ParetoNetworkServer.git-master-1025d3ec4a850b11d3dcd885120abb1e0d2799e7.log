@@ -1,0 +1,8 @@
+
+ 
+commit 1025d3ec4a850b11d3dcd885120abb1e0d2799e7
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Nov 30 2018 12:42:43 GMT-0500 (Colombia Standard Time)
+    Merge pull request #408 from ParetoNetwork/fixIntelContract
+
+change distribution time to 10 days from 20 minutes

@@ -1,0 +1,8 @@
+
+ 
+commit 10e8ff6784fa4ee29ab20b0db3853d0411a7b97a
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Sep 17 2018 18:07:58 GMT-0500 (Colombia Standard Time)
+    Merge pull request #212 from ParetoNetwork/feature-scores-greater-than
+
+use contract environment variable

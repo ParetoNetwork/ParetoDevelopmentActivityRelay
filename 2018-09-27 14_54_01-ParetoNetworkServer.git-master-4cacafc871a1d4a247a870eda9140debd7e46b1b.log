@@ -1,0 +1,6 @@
+
+ 
+commit 4cacafc871a1d4a247a870eda9140debd7e46b1b
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Sep 27 2018 09:54:01 GMT-0500 (Colombia Standard Time)
+    remove update ranking on signin

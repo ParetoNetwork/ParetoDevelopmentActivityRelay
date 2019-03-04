@@ -1,0 +1,9 @@
+
+ 
+commit db01e8b2b8b47996b32f67df4c9bb39328c579f3
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Mon Apr 30 2018 11:14:16 GMT-0500 (Colombia Standard Time)
+    Merge pull request #14 from ParetoNetwork/user-feedback-on-long-tasks
+
+fixes #2.
+Comprised zip assets of previous fix

@@ -1,0 +1,6 @@
+
+ 
+commit 3657af63fc3ae8635e07333f1302698636a092cf
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Oct 24 2018 17:47:32 GMT-0500 (Colombia Standard Time)
+    execute clock in the worker

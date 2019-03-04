@@ -1,0 +1,6 @@
+
+ 
+commit 609209699c44a2947b91283d91c7730b043f9621
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Nov 14 2018 09:36:11 GMT-0500 (Colombia Standard Time)
+    fix websocket send  on distribute

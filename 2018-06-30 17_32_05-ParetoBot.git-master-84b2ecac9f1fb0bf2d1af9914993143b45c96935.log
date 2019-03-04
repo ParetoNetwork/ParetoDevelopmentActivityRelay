@@ -1,0 +1,6 @@
+
+ 
+commit 84b2ecac9f1fb0bf2d1af9914993143b45c96935
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Sat Jun 30 2018 12:32:05 GMT-0500 (Colombia Standard Time)
+    add properties from environment variables

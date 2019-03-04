@@ -1,0 +1,8 @@
+
+ 
+commit 7f9c99ff152e233860a33b00c8920fdba0fd54f0
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Sep 19 2018 17:25:25 GMT-0500 (Colombia Standard Time)
+    Merge pull request #224 from ParetoNetwork/Implement-vuejs
+
+ Intel view state fix

@@ -1,0 +1,8 @@
+
+ 
+commit 5a9afee2994a84f0ef282157a8bc245d215992c7
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Fri Jan 25 2019 18:05:33 GMT-0500 (Colombia Standard Time)
+    Fixed Platform bot.
+Configured three bots running on a single server with different controllers.
+Configured the router. For now, it just uses the observer route to redirect it to the community bot.

@@ -1,0 +1,6 @@
+
+ 
+commit c1a28b6eceaf0d66c3a159c3194c924db2d1b290
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Jan 17 2019 09:43:06 GMT-0500 (Colombia Standard Time)
+    Fixes #475 Added Priority Queue, Fixed Login and Component Load, Test and Build

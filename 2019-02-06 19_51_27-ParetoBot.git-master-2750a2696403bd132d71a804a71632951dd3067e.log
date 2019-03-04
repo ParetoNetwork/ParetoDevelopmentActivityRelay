@@ -1,0 +1,6 @@
+
+ 
+commit 2750a2696403bd132d71a804a71632951dd3067e
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Wed Feb 06 2019 14:51:27 GMT-0500 (Colombia Standard Time)
+    Cleaning up code. Tracking messages and user joins. This is a partial commit.

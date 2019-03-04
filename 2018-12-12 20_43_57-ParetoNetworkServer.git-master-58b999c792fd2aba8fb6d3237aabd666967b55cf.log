@@ -1,0 +1,6 @@
+
+ 
+commit 58b999c792fd2aba8fb6d3237aabd666967b55cf
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Dec 12 2018 15:43:57 GMT-0500 (Colombia Standard Time)
+    return more fast when ranking is not in redis

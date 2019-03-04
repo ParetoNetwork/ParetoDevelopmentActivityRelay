@@ -1,0 +1,6 @@
+
+ 
+commit 2926b7e931d2ad8aed8dbbc12dcda50383536feb
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Mon Jun 18 2018 14:46:25 GMT-0500 (Colombia Standard Time)
+    add maxmemory and policy to better debug.

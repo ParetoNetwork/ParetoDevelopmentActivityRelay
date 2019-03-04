@@ -1,0 +1,6 @@
+
+ 
+commit 3fb872bfa6d631f826db8e51bebeba8c056b66f2
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Fri Aug 24 2018 11:41:16 GMT-0500 (Colombia Standard Time)
+    Fixes #149 added Izitoast, replaced alert dialogs and some messages with toast

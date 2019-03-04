@@ -1,0 +1,8 @@
+
+ 
+commit f784e425688dffc9e3ddac22b708b64d5f6e7acd
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Mon Apr 30 2018 12:11:41 GMT-0500 (Colombia Standard Time)
+    Merge pull request #15 from ParetoNetwork/real_time_ranking_based_on_scores
+
+fixes #9

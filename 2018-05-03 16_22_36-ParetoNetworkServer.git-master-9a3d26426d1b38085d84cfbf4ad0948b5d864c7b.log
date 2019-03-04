@@ -1,0 +1,6 @@
+
+ 
+commit 9a3d26426d1b38085d84cfbf4ad0948b5d864c7b
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Thu May 03 2018 11:22:36 GMT-0500 (Colombia Standard Time)
+    check mongo connection, test all files, change structure of application instance

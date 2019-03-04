@@ -1,0 +1,6 @@
+
+ 
+commit 8fefff0a71a530f73a998474207fcdf086badaae
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Mon Sep 17 2018 17:42:35 GMT-0500 (Colombia Standard Time)
+    Fixes #168 created modal and added guard to intercept back button and route changes

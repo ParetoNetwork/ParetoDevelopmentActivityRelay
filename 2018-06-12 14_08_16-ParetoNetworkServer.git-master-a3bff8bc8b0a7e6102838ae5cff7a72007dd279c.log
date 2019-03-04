@@ -1,0 +1,6 @@
+
+ 
+commit a3bff8bc8b0a7e6102838ae5cff7a72007dd279c
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Tue Jun 12 2018 09:08:16 GMT-0500 (Colombia Standard Time)
+    Merge branch 'Implement-vuejs' of pareto-network:ParetoNetwork/ParetoNetworkServer into unit_test

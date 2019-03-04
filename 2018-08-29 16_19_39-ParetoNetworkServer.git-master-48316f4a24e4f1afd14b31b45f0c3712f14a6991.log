@@ -1,0 +1,6 @@
+
+ 
+commit 48316f4a24e4f1afd14b31b45f0c3712f14a6991
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Aug 29 2018 11:19:39 GMT-0500 (Colombia Standard Time)
+    improve performance of the aproximation ranking function

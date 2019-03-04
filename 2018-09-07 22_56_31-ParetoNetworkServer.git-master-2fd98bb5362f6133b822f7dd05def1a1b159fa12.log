@@ -1,0 +1,8 @@
+
+ 
+commit 2fd98bb5362f6133b822f7dd05def1a1b159fa12
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Sep 07 2018 17:56:31 GMT-0500 (Colombia Standard Time)
+    Merge pull request #177 from ParetoNetwork/feature-modify-bottom-nav
+
+link to ethereum.org, hover states

@@ -1,0 +1,6 @@
+
+ 
+commit 89b28bb6dc10e34b2c2a09817eb174f18f457ee2
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Wed Oct 03 2018 11:38:34 GMT-0500 (Colombia Standard Time)
+    Fixes Shimmer always showing when not own content to display, changed link to etherscan address

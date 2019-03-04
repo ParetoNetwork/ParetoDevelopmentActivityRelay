@@ -1,0 +1,6 @@
+
+ 
+commit e74dc73a74ab7fe22be325348f962c5c26aaa8a6
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Sep 19 2018 16:22:53 GMT-0500 (Colombia Standard Time)
+    Fixes #191 Changed Layout to Scientific Notation

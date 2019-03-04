@@ -1,0 +1,6 @@
+
+ 
+commit 707cfb6918e37e56b8904cb6eb0e00f7edcaa0c5
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Oct 25 2018 17:50:49 GMT-0500 (Colombia Standard Time)
+    Fixes #275, fix failed callback

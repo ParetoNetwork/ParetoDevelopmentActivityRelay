@@ -1,0 +1,8 @@
+
+ 
+commit 9f80b6625aab616272c2d15402e79165adb1de8a
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Jan 23 2019 10:57:43 GMT-0500 (Colombia Standard Time)
+    Merge pull request #486 from ParetoNetwork/LEDGER_NANO_ISSUES
+
+fix bug Ledger Invalid Sender

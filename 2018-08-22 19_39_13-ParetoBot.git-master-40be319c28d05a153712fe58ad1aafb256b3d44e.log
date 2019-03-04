@@ -1,0 +1,6 @@
+
+ 
+commit 40be319c28d05a153712fe58ad1aafb256b3d44e
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Wed Aug 22 2018 14:39:13 GMT-0500 (Colombia Standard Time)
+    call updatescore after signin

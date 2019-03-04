@@ -1,0 +1,6 @@
+
+ 
+commit e17951d901d16894ecb733b1461e69eda108c42a
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Fri Aug 24 2018 11:37:56 GMT-0500 (Colombia Standard Time)
+    Fixes #142 refactor html for create intel page, more visual feedback to creating intel and changes

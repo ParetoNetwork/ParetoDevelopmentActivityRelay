@@ -1,0 +1,6 @@
+
+ 
+commit e606f15501d568fd0c1227469506fd5e7801033a
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Nov 29 2018 17:00:57 GMT-0500 (Colombia Standard Time)
+    Added chevron icon and dynamic style to rank and score on leaderboard

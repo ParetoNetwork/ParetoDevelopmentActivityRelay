@@ -1,0 +1,8 @@
+
+ 
+commit c4ab6d75dd6de1ea33d584c043ccc5b1f8a929ab
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Dec 27 2018 20:16:26 GMT-0500 (Colombia Standard Time)
+    Merge pull request #463 from ParetoNetwork/development
+
+idle connection fix

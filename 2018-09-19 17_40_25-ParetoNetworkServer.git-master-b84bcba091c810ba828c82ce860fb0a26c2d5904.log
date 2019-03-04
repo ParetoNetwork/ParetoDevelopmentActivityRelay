@@ -1,0 +1,8 @@
+
+ 
+commit b84bcba091c810ba828c82ce860fb0a26c2d5904
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Sep 19 2018 12:40:25 GMT-0500 (Colombia Standard Time)
+    Merge pull request #217 from ParetoNetwork/Implement-vuejs
+
+Hiding New Intel Button for today's release

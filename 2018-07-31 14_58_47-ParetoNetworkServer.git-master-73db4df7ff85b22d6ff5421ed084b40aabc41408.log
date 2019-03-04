@@ -1,0 +1,6 @@
+
+ 
+commit 73db4df7ff85b22d6ff5421ed084b40aabc41408
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Jul 31 2018 09:58:47 GMT-0500 (Colombia Standard Time)
+    Merge branch 'move_photo_s3' of pareto-network:ParetoNetwork/ParetoNetworkServer into Implement-vuejs

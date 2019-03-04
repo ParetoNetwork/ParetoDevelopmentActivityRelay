@@ -1,0 +1,6 @@
+
+ 
+commit 3e7fff1ba078bb0c8666531e5cd1c453b5f277b4
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Dec 13 2018 15:53:14 GMT-0500 (Colombia Standard Time)
+    Fixes #378 Leaderboard Flashes Added Random Fake Flash on Socket

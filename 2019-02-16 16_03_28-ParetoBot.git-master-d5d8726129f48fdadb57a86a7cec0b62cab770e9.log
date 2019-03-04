@@ -1,0 +1,6 @@
+
+ 
+commit d5d8726129f48fdadb57a86a7cec0b62cab770e9
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Sat Feb 16 2019 11:03:28 GMT-0500 (Colombia Standard Time)
+    Merge branch 'development' into feature-whitelist-ranks

@@ -1,0 +1,8 @@
+
+ 
+commit bf9ef287e632e867850feae25413eeb0535b7691
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Feb 06 2019 19:31:11 GMT-0500 (Colombia Standard Time)
+    Merge pull request #41 from ParetoNetwork/feature-message-before-expiration
+
+Feature message before expiration

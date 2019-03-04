@@ -1,0 +1,8 @@
+
+ 
+commit ab91cf4219ee9254b48e721fbca459357b5b66b8
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Tue Dec 11 2018 14:57:37 GMT-0500 (Colombia Standard Time)
+    Merge pull request #435 from ParetoNetwork/staging
+
+link color fix, sitemap added, hashbang route removed, to live site

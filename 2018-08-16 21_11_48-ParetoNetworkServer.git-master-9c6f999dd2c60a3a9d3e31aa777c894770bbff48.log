@@ -1,0 +1,6 @@
+
+ 
+commit 9c6f999dd2c60a3a9d3e31aa777c894770bbff48
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Thu Aug 16 2018 16:11:48 GMT-0500 (Colombia Standard Time)
+    Fixes #80 added sources to mp4, ogg and webm

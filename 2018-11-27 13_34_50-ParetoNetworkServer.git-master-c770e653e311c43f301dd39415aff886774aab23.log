@@ -1,0 +1,6 @@
+
+ 
+commit c770e653e311c43f301dd39415aff886774aab23
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Nov 27 2018 08:34:50 GMT-0500 (Colombia Standard Time)
+    Fixes #392 Fixes and Build, Added vue-meta

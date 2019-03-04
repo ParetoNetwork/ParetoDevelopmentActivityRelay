@@ -1,0 +1,8 @@
+
+ 
+commit 2e599226e81e9e7ed6f272c75b26a9fa5507e80e
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Nov 01 2018 07:27:08 GMT-0500 (Colombia Standard Time)
+    Merge pull request #300 from ParetoNetwork/staging
+
+new parser sent to prod

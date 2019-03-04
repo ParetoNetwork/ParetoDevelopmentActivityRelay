@@ -1,0 +1,6 @@
+
+ 
+commit 871d2735597bcb28392baabc8dad4bbcd921616f
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Nov 13 2018 16:42:56 GMT-0500 (Colombia Standard Time)
+    Fixes #325 Function Approval to increaseApproval

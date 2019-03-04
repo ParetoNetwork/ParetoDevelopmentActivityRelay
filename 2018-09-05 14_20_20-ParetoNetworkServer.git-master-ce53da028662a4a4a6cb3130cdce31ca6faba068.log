@@ -1,0 +1,6 @@
+
+ 
+commit ce53da028662a4a4a6cb3130cdce31ca6faba068
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Wed Sep 05 2018 09:20:20 GMT-0500 (Colombia Standard Time)
+    Fixes #124 merge with socket

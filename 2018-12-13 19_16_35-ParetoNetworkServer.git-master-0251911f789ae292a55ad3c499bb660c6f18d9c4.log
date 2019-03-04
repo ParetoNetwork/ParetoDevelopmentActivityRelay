@@ -1,0 +1,8 @@
+
+ 
+commit 0251911f789ae292a55ad3c499bb660c6f18d9c4
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Dec 13 2018 14:16:35 GMT-0500 (Colombia Standard Time)
+    Merge pull request #439 from ParetoNetwork/378-LEADERBOARD-FLASHES
+
+Fixes #378 Leaderboard Flashes, Created Effect and Change on Socket

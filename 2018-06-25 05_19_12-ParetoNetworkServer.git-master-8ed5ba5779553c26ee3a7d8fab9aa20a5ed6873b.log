@@ -1,0 +1,6 @@
+
+ 
+commit 8ed5ba5779553c26ee3a7d8fab9aa20a5ed6873b
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Jun 25 2018 00:19:12 GMT-0500 (Colombia Standard Time)
+    flipped order of static calls

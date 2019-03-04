@@ -1,0 +1,8 @@
+
+ 
+commit 4f845e0e08c31b020b1da10fe66bd33b2c74b0de
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Oct 03 2018 15:02:43 GMT-0500 (Colombia Standard Time)
+    Merge pull request #243 from ParetoNetwork/development
+
+v-if=false on create button, leave it that way

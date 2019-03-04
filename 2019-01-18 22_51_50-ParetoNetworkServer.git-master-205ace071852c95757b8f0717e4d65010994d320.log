@@ -1,0 +1,6 @@
+
+ 
+commit 205ace071852c95757b8f0717e4d65010994d320
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Jan 18 2019 17:51:50 GMT-0500 (Colombia Standard Time)
+    Fixes #453 Added Rate Limiter with Redis configuration, Tested and Build

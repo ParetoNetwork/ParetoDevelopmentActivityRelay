@@ -1,0 +1,6 @@
+
+ 
+commit 0886eb703860cf1d43490c6ad0068ce16eb9388e
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Feb 06 2019 14:17:39 GMT-0500 (Colombia Standard Time)
+    downsize compute instance resources

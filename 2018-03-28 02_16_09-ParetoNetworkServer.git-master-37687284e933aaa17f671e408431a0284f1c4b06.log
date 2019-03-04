@@ -1,0 +1,6 @@
+
+ 
+commit 37687284e933aaa17f671e408431a0284f1c4b06
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Tue Mar 27 2018 21:16:09 GMT-0500 (Colombia Standard Time)
+    jwt authorization for root and subdomains

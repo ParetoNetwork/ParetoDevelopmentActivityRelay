@@ -1,0 +1,6 @@
+
+ 
+commit b66da76f7302a97aa54ff77996819884ba788a16
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Sep 14 2018 02:55:58 GMT-0500 (Colombia Standard Time)
+    Fixes #151 Merge With ledger-nano-option and some little changes

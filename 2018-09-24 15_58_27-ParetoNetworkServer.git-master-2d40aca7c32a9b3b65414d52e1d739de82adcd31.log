@@ -1,0 +1,6 @@
+
+ 
+commit 2d40aca7c32a9b3b65414d52e1d739de82adcd31
+Author:	CarlosADLRT <cadelosreyest@gmail.com>
+Date:	Mon Sep 24 2018 10:58:27 GMT-0500 (Colombia Standard Time)
+    Fixes #108 Unified Messages Notification HTML, Added title and Dinamically send style class

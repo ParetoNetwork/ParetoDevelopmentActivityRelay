@@ -1,0 +1,6 @@
+
+ 
+commit d20dc618f0bb8d4a993d559ca4e2fc2f8b9221f4
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Nov 06 2018 10:52:05 GMT-0500 (Colombia Standard Time)
+    Fixes #253 Added Transactions Events as Object Params

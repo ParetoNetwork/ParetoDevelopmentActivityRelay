@@ -1,0 +1,8 @@
+
+ 
+commit 25eb3939469914bc3e0a9f6206c1c32dd0a8e7c9
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Apr 27 2018 15:54:31 GMT-0500 (Colombia Standard Time)
+    Revert "forcing environment variable instead of use of backend-private"
+
+This reverts commit 1fe99376e5f7f07b07167feb9a522780ecdaaf9d.

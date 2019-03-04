@@ -1,0 +1,8 @@
+
+ 
+commit 7460faad3522d9891484bff6d98860e8633238f8
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Aug 10 2018 04:00:03 GMT-0500 (Colombia Standard Time)
+    Merge pull request #130 from ParetoNetwork/feature-add-employee
+
+fix bolding issue on about page

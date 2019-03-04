@@ -1,0 +1,6 @@
+
+ 
+commit ba643a04f09a536f4180ff91190136579b299cb4
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Tue May 01 2018 10:50:27 GMT-0500 (Colombia Standard Time)
+    init circleci , modify to fit project

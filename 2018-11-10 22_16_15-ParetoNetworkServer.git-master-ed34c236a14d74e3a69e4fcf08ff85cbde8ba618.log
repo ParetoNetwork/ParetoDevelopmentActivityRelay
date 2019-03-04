@@ -1,0 +1,6 @@
+
+ 
+commit ed34c236a14d74e3a69e4fcf08ff85cbde8ba618
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Sat Nov 10 2018 17:16:15 GMT-0500 (Colombia Standard Time)
+    teaching mongoose how to count

@@ -1,0 +1,6 @@
+
+ 
+commit 3f8c902215bf8497fdae343787a556e2e213e364
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Thu Jun 21 2018 11:52:28 GMT-0500 (Colombia Standard Time)
+    fix login and build public folder

@@ -1,0 +1,6 @@
+
+ 
+commit b09b276472c125ec09e208c42099df05e658ca3b
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Nov 20 2018 11:43:09 GMT-0500 (Colombia Standard Time)
+    Fixes #314 Build and Fixed bugs, everything working

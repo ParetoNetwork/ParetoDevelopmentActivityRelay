@@ -1,0 +1,6 @@
+
+ 
+commit 0871d95be95121af4a7c432bd98c84d9033f65cf
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Nov 14 2018 13:15:30 GMT-0500 (Colombia Standard Time)
+    change distribute word to collect, add distributed boolean on response

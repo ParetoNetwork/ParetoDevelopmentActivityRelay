@@ -1,0 +1,6 @@
+
+ 
+commit 7b86a495ca8efd32990351e3435e0639d3b9aedf
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Mon Jun 11 2018 16:55:32 GMT-0500 (Colombia Standard Time)
+    fix gzip

@@ -1,0 +1,6 @@
+
+ 
+commit 6197127493d223486e85fe84e513e906b75d7b8f
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Sep 12 2018 16:37:28 GMT-0500 (Colombia Standard Time)
+    Fixes #151 Changed Select Input to Dropdown Item

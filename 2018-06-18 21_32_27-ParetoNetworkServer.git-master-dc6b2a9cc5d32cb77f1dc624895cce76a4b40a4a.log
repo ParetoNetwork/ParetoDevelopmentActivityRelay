@@ -1,0 +1,6 @@
+
+ 
+commit dc6b2a9cc5d32cb77f1dc624895cce76a4b40a4a
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Mon Jun 18 2018 16:32:27 GMT-0500 (Colombia Standard Time)
+    delete url .json from info

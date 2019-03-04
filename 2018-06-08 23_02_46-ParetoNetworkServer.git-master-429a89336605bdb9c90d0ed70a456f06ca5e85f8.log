@@ -1,0 +1,6 @@
+
+ 
+commit 429a89336605bdb9c90d0ed70a456f06ca5e85f8
+Author:	Andres Jaramillo <jandresjc@gmail.com>
+Date:	Fri Jun 08 2018 18:02:46 GMT-0500 (Colombia Standard Time)
+    remove dependency webpack 4

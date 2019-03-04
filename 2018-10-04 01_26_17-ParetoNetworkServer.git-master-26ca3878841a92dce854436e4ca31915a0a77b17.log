@@ -1,0 +1,6 @@
+
+ 
+commit 26ca3878841a92dce854436e4ca31915a0a77b17
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Oct 03 2018 20:26:17 GMT-0500 (Colombia Standard Time)
+    EIP712 implementation

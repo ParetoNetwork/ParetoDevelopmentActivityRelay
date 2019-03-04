@@ -1,0 +1,6 @@
+
+ 
+commit f1b67bf43b1d5c5b8682dfacce1b8930b3aa7082
+Author:	Sheraz Arshad <sheraz1392@gmail.com>
+Date:	Tue Nov 13 2018 13:23:29 GMT-0500 (Colombia Standard Time)
+    add encruption of private key for schedule distribution of pareto rewards

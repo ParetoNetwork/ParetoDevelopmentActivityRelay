@@ -1,0 +1,6 @@
+
+ 
+commit 72ee7ebb6d2d57e8de8e97a5395ceb7d219b4dca
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Wed Sep 05 2018 18:19:23 GMT-0500 (Colombia Standard Time)
+    fixes #170 add watch newIntel

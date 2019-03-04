@@ -1,0 +1,6 @@
+
+ 
+commit a93add74551bd517fdb24e7713e2ebc4872aae0c
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Mon Sep 10 2018 18:00:52 GMT-0500 (Colombia Standard Time)
+    Fixes #154 Deleted Distributed Button and Fixed Layout for It

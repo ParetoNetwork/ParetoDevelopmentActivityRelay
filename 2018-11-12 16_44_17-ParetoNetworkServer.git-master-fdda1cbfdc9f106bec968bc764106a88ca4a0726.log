@@ -1,0 +1,6 @@
+
+ 
+commit fdda1cbfdc9f106bec968bc764106a88ca4a0726
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Mon Nov 12 2018 11:44:17 GMT-0500 (Colombia Standard Time)
+    leaderboard: align center on score table cell

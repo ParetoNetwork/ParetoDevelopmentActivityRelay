@@ -1,0 +1,6 @@
+
+ 
+commit 2bf329a6b23109ebcdaa65f24077a6c7aa879e2b
+Author:	Sheraz Arshad <sheraz1392@gmail.com>
+Date:	Sat Jan 05 2019 12:46:13 GMT-0500 (Colombia Standard Time)
+    add comments for balances[address(this)]

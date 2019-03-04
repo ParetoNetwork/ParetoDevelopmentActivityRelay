@@ -1,0 +1,6 @@
+
+ 
+commit 017a9547cfa7b0ee29c2102faa5104d04ce98efa
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Mon Sep 17 2018 11:51:13 GMT-0500 (Colombia Standard Time)
+    Fixes #193 notify pending intel via websocket

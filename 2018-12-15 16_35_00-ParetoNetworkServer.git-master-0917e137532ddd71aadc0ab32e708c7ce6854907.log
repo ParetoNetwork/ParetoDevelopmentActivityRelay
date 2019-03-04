@@ -1,0 +1,10 @@
+
+ 
+commit 0917e137532ddd71aadc0ab32e708c7ce6854907
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Sat Dec 15 2018 11:35:00 GMT-0500 (Colombia Standard Time)
+    Merge branch 'development' of github.com:ParetoNetwork/ParetoNetworkServer into development
+
+Conflicts:
+	public/css/app.ad7452fa.css
+	public/index.html

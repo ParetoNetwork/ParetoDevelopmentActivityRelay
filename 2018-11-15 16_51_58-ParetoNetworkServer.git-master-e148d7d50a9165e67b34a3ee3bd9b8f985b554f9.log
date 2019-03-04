@@ -1,0 +1,6 @@
+
+ 
+commit e148d7d50a9165e67b34a3ee3bd9b8f985b554f9
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Nov 15 2018 11:51:58 GMT-0500 (Colombia Standard Time)
+    force SSL if user explicitly types http or comes in from external http link

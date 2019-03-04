@@ -1,0 +1,8 @@
+
+ 
+commit d1941938fd3bc7c03d598daeaa42c180928d0a60
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Wed Nov 28 2018 13:08:47 GMT-0500 (Colombia Standard Time)
+    Merge pull request #403 from ParetoNetwork/fixIntelContract
+
+Fix intel contract

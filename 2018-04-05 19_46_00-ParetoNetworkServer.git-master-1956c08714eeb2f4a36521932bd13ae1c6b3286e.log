@@ -1,0 +1,6 @@
+
+ 
+commit 1956c08714eeb2f4a36521932bd13ae1c6b3286e
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Thu Apr 05 2018 14:46:00 GMT-0500 (Colombia Standard Time)
+    error handling on score calculation

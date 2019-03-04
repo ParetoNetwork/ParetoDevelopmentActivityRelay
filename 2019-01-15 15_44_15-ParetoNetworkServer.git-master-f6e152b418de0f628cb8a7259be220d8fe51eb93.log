@@ -1,0 +1,6 @@
+
+ 
+commit f6e152b418de0f628cb8a7259be220d8fe51eb93
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Tue Jan 15 2019 10:44:15 GMT-0500 (Colombia Standard Time)
+    Added Response Time Key for Block Delay and Time Delay

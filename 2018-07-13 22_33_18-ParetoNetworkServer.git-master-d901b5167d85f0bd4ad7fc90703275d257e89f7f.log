@@ -1,0 +1,8 @@
+
+ 
+commit d901b5167d85f0bd4ad7fc90703275d257e89f7f
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Jul 13 2018 17:33:18 GMT-0500 (Colombia Standard Time)
+    Merge pull request #99 from ParetoNetwork/revert-95-Rewards-API
+
+Revert "add rewards API and events"

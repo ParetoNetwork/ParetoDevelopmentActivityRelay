@@ -1,0 +1,8 @@
+
+ 
+commit 30e49717aea3697555c6aa5a9afc6e1819228952
+Author:	Eric Lamison-White <eric@blockology.org>
+Date:	Fri Nov 09 2018 10:59:01 GMT-0500 (Colombia Standard Time)
+    Merge pull request #311 from ParetoNetwork/development
+
+seamlessly make rewards, get params for filtering authors

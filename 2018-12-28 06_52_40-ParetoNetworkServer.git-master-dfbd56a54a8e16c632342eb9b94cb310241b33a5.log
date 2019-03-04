@@ -1,0 +1,6 @@
+
+ 
+commit dfbd56a54a8e16c632342eb9b94cb310241b33a5
+Author:	Hans Ospina <hansospina@gmail.com>
+Date:	Fri Dec 28 2018 01:52:40 GMT-0500 (Colombia Standard Time)
+    Fixed Both Front-End Bugs with Reactive Change on Transaction State, Changed Distribute BackEnd call and Added front-end validation
