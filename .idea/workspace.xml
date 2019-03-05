@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6faec1f-33e5-412c-bd2e-5d9a0c8e653c" name="Default Changelist" comment="$PROJECT_DIR$/2018-11-29 22_00_57-ParetoNetworkServer.git-master-e606f15501d568fd0c1227469506fd5e7801033a.log" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1928891838">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="100" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="100" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="log" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="5" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="956" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ParetoDevelopmentActivityRelay.git" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ParetoDevelopmentActivityRelay.git" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6faec1f-33e5-412c-bd2e-5d9a0c8e653c" name="Default Changelist" comment="" />
+      <created>1551456692114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551456692114</updated>
+      <workItem from="1551456693379" duration="14755000" />
+    </task>
+    <task id="LOCAL-01240" summary="2019-01-22 05_01_28-ParetoBot.git-master-0cd48a3e6ff0215af7b47d398a158a34af87db32.log">
+      <created>1551500117581</created>
+      <option name="number" value="01240" />
+      <option name="presentableId" value="LOCAL-01240" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500117581</updated>
+    </task>
+    <task id="LOCAL-01241" summary="2019-01-22 05_06_38-ParetoBot.git-master-073d003dbb05786841bd2580c061e033e070946c.log">
+      <created>1551500130176</created>
+      <option name="number" value="01241" />
+      <option name="presentableId" value="LOCAL-01241" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500130176</updated>
+    </task>
+    <task id="LOCAL-01242" summary="2019-01-22 05_12_12-ParetoBot.git-master-a79c50ef668278952f60d02f7e0066e9389c5763.log">
+      <created>1551500142461</created>
+      <option name="number" value="01242" />
+      <option name="presentableId" value="LOCAL-01242" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500142461</updated>
+    </task>
+    <task id="LOCAL-01243" summary="2019-01-22 05_13_58-ParetoBot.git-master-b957e605ba5bd4cb9e9b9b7e24da71f060f4dc25.log">
+      <created>1551500158879</created>
+      <option name="number" value="01243" />
+      <option name="presentableId" value="LOCAL-01243" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500158879</updated>
+    </task>
+    <task id="LOCAL-01244" summary="2019-01-22 05_18_37-ParetoBot.git-master-fe175e98fd970593f877a2b15110693c2d1d7c87.log">
+      <created>1551500168739</created>
+      <option name="number" value="01244" />
+      <option name="presentableId" value="LOCAL-01244" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500168739</updated>
+    </task>
+    <task id="LOCAL-01245" summary="2019-01-22 05_21_37-ParetoBot.git-master-cd4a358a2a0c1252d7cccbca732492b6a4e2192a.log">
+      <created>1551500178779</created>
+      <option name="number" value="01245" />
+      <option name="presentableId" value="LOCAL-01245" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500178779</updated>
+    </task>
+    <task id="LOCAL-01246" summary="2019-01-22 05_23_48-ParetoBot.git-master-c80f800acad82693ec84081fc773a252f9e81283.log">
+      <created>1551500189786</created>
+      <option name="number" value="01246" />
+      <option name="presentableId" value="LOCAL-01246" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500189786</updated>
+    </task>
+    <task id="LOCAL-01247" summary="2019-01-22 05_25_40-ParetoBot.git-master-7bb917acc39650f56ef25b085da0b3f9d0fae654.log">
+      <created>1551500199232</created>
+      <option name="number" value="01247" />
+      <option name="presentableId" value="LOCAL-01247" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500199232</updated>
+    </task>
+    <task id="LOCAL-01248" summary="2019-01-22 05_27_17-ParetoBot.git-master-59fe82de1a81f3b6f7acac4f64435f942e1f3f56.log">
+      <created>1551500210287</created>
+      <option name="number" value="01248" />
+      <option name="presentableId" value="LOCAL-01248" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500210287</updated>
+    </task>
+    <task id="LOCAL-01249" summary="2019-01-22 05_35_25-ParetoBot.git-master-7db8aaa4324aa6f93fdb566ce8dfa49bdbe45351.log">
+      <created>1551500222107</created>
+      <option name="number" value="01249" />
+      <option name="presentableId" value="LOCAL-01249" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500222107</updated>
+    </task>
+    <task id="LOCAL-01250" summary="2019-01-22 05_35_53-ParetoBot.git-master-758d54d73c0cac61feb84287f6ce6c79efd12594.log">
+      <created>1551500232036</created>
+      <option name="number" value="01250" />
+      <option name="presentableId" value="LOCAL-01250" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500232036</updated>
+    </task>
+    <task id="LOCAL-01251" summary="2019-01-22 05_49_49-ParetoBot.git-master-4f20cfbc0ed73e4d3935419560b4f9b378966885.log">
+      <created>1551500242737</created>
+      <option name="number" value="01251" />
+      <option name="presentableId" value="LOCAL-01251" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500242737</updated>
+    </task>
+    <task id="LOCAL-01252" summary="2019-01-22 05_52_32-ParetoBot.git-master-7c885ee74f09b8d4aecb41712d7aaa9e3cffc892.log">
+      <created>1551500254771</created>
+      <option name="number" value="01252" />
+      <option name="presentableId" value="LOCAL-01252" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500254771</updated>
+    </task>
+    <task id="LOCAL-01253" summary="2019-01-22 05_59_25-ParetoBot.git-master-5fae40a58113dda8335f251b6c4a43c3b22b521f.log">
+      <created>1551500264027</created>
+      <option name="number" value="01253" />
+      <option name="presentableId" value="LOCAL-01253" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500264027</updated>
+    </task>
+    <task id="LOCAL-01254" summary="2019-01-22 06_02_16-ParetoBot.git-master-a60e9019816fd5daf3b605e08bba2a6e9743e297.log">
+      <created>1551500275128</created>
+      <option name="number" value="01254" />
+      <option name="presentableId" value="LOCAL-01254" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500275128</updated>
+    </task>
+    <task id="LOCAL-01255" summary="2019-01-22 13_11_29-ParetoBot.git-master-69aa7e180aa56576d39ad97d34c6468ea1edb5f6.log">
+      <created>1551500286616</created>
+      <option name="number" value="01255" />
+      <option name="presentableId" value="LOCAL-01255" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500286616</updated>
+    </task>
+    <task id="LOCAL-01256" summary="2019-01-22 17_56_43-ParetoBot.git-master-6a046a0f23a17765c62a21bbe97ff26f04c63ad4.log">
+      <created>1551500296722</created>
+      <option name="number" value="01256" />
+      <option name="presentableId" value="LOCAL-01256" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500296722</updated>
+    </task>
+    <task id="LOCAL-01257" summary="2019-01-22 18_04_08-ParetoBot.git-master-4b645464afcfadf7a6c71ccfb81dab9a94e075d5.log">
+      <created>1551500307563</created>
+      <option name="number" value="01257" />
+      <option name="presentableId" value="LOCAL-01257" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500307563</updated>
+    </task>
+    <task id="LOCAL-01258" summary="2019-01-22 18_06_59-ParetoBot.git-master-fdf8fda3489f1a4e1cadb3bdf58fe8fff738ff8b.log">
+      <created>1551500319278</created>
+      <option name="number" value="01258" />
+      <option name="presentableId" value="LOCAL-01258" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500319279</updated>
+    </task>
+    <task id="LOCAL-01259" summary="2019-01-22 22_06_56-ParetoBot.git-master-5410a7977aa55c56f37ff402f317d791a1b36f17.log">
+      <created>1551500330554</created>
+      <option name="number" value="01259" />
+      <option name="presentableId" value="LOCAL-01259" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500330555</updated>
+    </task>
+    <task id="LOCAL-01260" summary="2019-01-22 22_10_16-ParetoBot.git-master-67a00e0f98b840742af62785eeeff0869d0c4f34.log">
+      <created>1551500342810</created>
+      <option name="number" value="01260" />
+      <option name="presentableId" value="LOCAL-01260" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500342810</updated>
+    </task>
+    <task id="LOCAL-01261" summary="2019-01-22 22_16_07-ParetoBot.git-master-9a807390f476b76585585379c57954e896c4fe29.log">
+      <created>1551500366712</created>
+      <option name="number" value="01261" />
+      <option name="presentableId" value="LOCAL-01261" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500366712</updated>
+    </task>
+    <task id="LOCAL-01262" summary="2019-01-22 22_19_08-ParetoBot.git-master-b62e62bc644c0b11c81bc7affda72542c6a8ed4a.log">
+      <created>1551500378026</created>
+      <option name="number" value="01262" />
+      <option name="presentableId" value="LOCAL-01262" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500378026</updated>
+    </task>
+    <task id="LOCAL-01263" summary="2019-01-22 22_20_02-ParetoBot.git-master-eeaf1389c31e0eea8a3aacc0125e4d9e99cde099.log">
+      <created>1551500388843</created>
+      <option name="number" value="01263" />
+      <option name="presentableId" value="LOCAL-01263" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500388843</updated>
+    </task>
+    <task id="LOCAL-01264" summary="2019-01-22 23_05_39-ParetoBot.git-master-80d874bf2b227cf10b1d25e9dbca81166aa50425.log">
+      <created>1551500406505</created>
+      <option name="number" value="01264" />
+      <option name="presentableId" value="LOCAL-01264" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500406505</updated>
+    </task>
+    <task id="LOCAL-01265" summary="2019-01-23 14_54_55-ParetoNetworkServer.git-master-0ecf7cfe2351490f4a46cb6d85ff29bcc4aae0d3.log">
+      <created>1551500423667</created>
+      <option name="number" value="01265" />
+      <option name="presentableId" value="LOCAL-01265" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500423667</updated>
+    </task>
+    <task id="LOCAL-01266" summary="2019-01-23 15_50_52-ParetoNetworkServer.git-master-6b73ac266ce0391f46e7d49b93804881a9504ead.log">
+      <created>1551500434574</created>
+      <option name="number" value="01266" />
+      <option name="presentableId" value="LOCAL-01266" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500434574</updated>
+    </task>
+    <task id="LOCAL-01267" summary="2019-01-23 15_57_43-ParetoNetworkServer.git-master-9f80b6625aab616272c2d15402e79165adb1de8a.log">
+      <created>1551500446595</created>
+      <option name="number" value="01267" />
+      <option name="presentableId" value="LOCAL-01267" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500446595</updated>
+    </task>
+    <task id="LOCAL-01268" summary="2019-01-23 16_07_10-ParetoNetworkServer.git-master-e89cac105cc552a3cc6c722fcd33154d9be5c899.log">
+      <created>1551500458927</created>
+      <option name="number" value="01268" />
+      <option name="presentableId" value="LOCAL-01268" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500458927</updated>
+    </task>
+    <task id="LOCAL-01269" summary="2019-01-23 16_30_20-ParetoNetworkServer.git-master-3c00dad232a4e72185704eab18704337d575534f.log">
+      <created>1551500470288</created>
+      <option name="number" value="01269" />
+      <option name="presentableId" value="LOCAL-01269" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500470288</updated>
+    </task>
+    <task id="LOCAL-01270" summary="2019-01-24 00_25_13-ParetoBot.git-master-2702665862a96eaf3d4d1f8e776a09dbcb29fc2a.log">
+      <created>1551500485007</created>
+      <option name="number" value="01270" />
+      <option name="presentableId" value="LOCAL-01270" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500485008</updated>
+    </task>
+    <task id="LOCAL-01271" summary="2019-01-24 03_06_40-ParetoBot.git-master-9bfe1b3a683decd7abea8cb2e1cf7dc0f0c4b752.log:1">
+      <created>1551500496916</created>
+      <option name="number" value="01271" />
+      <option name="presentableId" value="LOCAL-01271" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500496916</updated>
+    </task>
+    <task id="LOCAL-01272" summary="2019-01-24 15_08_13-ParetoNetworkServer.git-master-2da6bdafbd33a58cfc82bf45469ff648778ed115.log">
+      <created>1551500507014</created>
+      <option name="number" value="01272" />
+      <option name="presentableId" value="LOCAL-01272" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500507014</updated>
+    </task>
+    <task id="LOCAL-01273" summary="2019-01-24 19_26_48-ParetoBot.git-master-aa3b516264c1822b3b9381b86e9fad3dbf1b262a.log">
+      <created>1551500517881</created>
+      <option name="number" value="01273" />
+      <option name="presentableId" value="LOCAL-01273" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500517881</updated>
+    </task>
+    <task id="LOCAL-01274" summary="2019-01-24 19_31_21-ParetoBot.git-master-e58190d72f3c4172894a1c1f887fb26774d166de.log">
+      <created>1551500527100</created>
+      <option name="number" value="01274" />
+      <option name="presentableId" value="LOCAL-01274" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500527100</updated>
+    </task>
+    <task id="LOCAL-01275" summary="2019-01-24 20_53_21-ParetoNetworkServer.git-master-8c70d28b820fd1838155f088b7857487517682e1.log">
+      <created>1551500536157</created>
+      <option name="number" value="01275" />
+      <option name="presentableId" value="LOCAL-01275" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500536157</updated>
+    </task>
+    <task id="LOCAL-01276" summary="2019-01-24 20_55_45-ParetoNetworkServer.git-master-74a75477b0a1ade34a9e78122792a2b65a71b687.log">
+      <created>1551500548123</created>
+      <option name="number" value="01276" />
+      <option name="presentableId" value="LOCAL-01276" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500548123</updated>
+    </task>
+    <task id="LOCAL-01277" summary="2019-01-24 22_54_18-ParetoNetworkServer.git-master-f93d352759a310a0b4639e6799b14b933cc957ef.log">
+      <created>1551500559222</created>
+      <option name="number" value="01277" />
+      <option name="presentableId" value="LOCAL-01277" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500559222</updated>
+    </task>
+    <task id="LOCAL-01278" summary="2019-01-25 00_23_58-ParetoBot.git-master-093f8800b1e01f2f5e0e691aace9766228b95b67.log">
+      <created>1551500571267</created>
+      <option name="number" value="01278" />
+      <option name="presentableId" value="LOCAL-01278" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500571268</updated>
+    </task>
+    <task id="LOCAL-01279" summary="2019-01-25 20_40_15-ParetoNetworkServer.git-master-b4da86b3f9a477dd667676ae57b69ce1dd526370.log">
+      <created>1551500583184</created>
+      <option name="number" value="01279" />
+      <option name="presentableId" value="LOCAL-01279" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500583185</updated>
+    </task>
+    <task id="LOCAL-01280" summary="2019-01-25 20_49_56-ParetoNetworkServer.git-master-c4932b235b0e10d655f9d75796b6b2603c5dbd16.log">
+      <created>1551500594395</created>
+      <option name="number" value="01280" />
+      <option name="presentableId" value="LOCAL-01280" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500594395</updated>
+    </task>
+    <task id="LOCAL-01281" summary="2019-01-25 23_05_33-ParetoBot.git-master-5a9afee2994a84f0ef282157a8bc245d215992c7.log">
+      <created>1551500606067</created>
+      <option name="number" value="01281" />
+      <option name="presentableId" value="LOCAL-01281" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500606067</updated>
+    </task>
+    <task id="LOCAL-01282" summary="2019-01-25 23_12_36-ParetoBot.git-master-d9fe515d4c54b9e465e1c8c7e85a80a4959cf076.log">
+      <created>1551500616886</created>
+      <option name="number" value="01282" />
+      <option name="presentableId" value="LOCAL-01282" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500616886</updated>
+    </task>
+    <task id="LOCAL-01283" summary="2019-01-25 23_57_28-ParetoNetworkServer.git-master-b5ceb5145715eadb8d70193fd2afe9d79e4b435a.log">
+      <created>1551500630308</created>
+      <option name="number" value="01283" />
+      <option name="presentableId" value="LOCAL-01283" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500630308</updated>
+    </task>
+    <task id="LOCAL-01284" summary="2019-01-25 23_57_56-ParetoNetworkServer.git-master-81a5a979fe48430abf7962c43c2bd8461177c722.log">
+      <created>1551500645016</created>
+      <option name="number" value="01284" />
+      <option name="presentableId" value="LOCAL-01284" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500645016</updated>
+    </task>
+    <task id="LOCAL-01285" summary="2019-01-26 01_23_55-ParetoNetworkServer.git-master-a86bea2eb3a7eac5675d65c0967132ebf1068f9f.log">
+      <created>1551500656077</created>
+      <option name="number" value="01285" />
+      <option name="presentableId" value="LOCAL-01285" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500656077</updated>
+    </task>
+    <task id="LOCAL-01286" summary="2019-01-28 22_19_38-ParetoBot.git-master-2643b246913cabac222d9e5d2665632dca03fdc7.log">
+      <created>1551500667882</created>
+      <option name="number" value="01286" />
+      <option name="presentableId" value="LOCAL-01286" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500667882</updated>
+    </task>
+    <task id="LOCAL-01287" summary="2019-01-29 00_59_14-ParetoNetworkServer.git-master-b1a886e49910f464f5df8f1e9c02b5d14330d095.log">
+      <created>1551500682384</created>
+      <option name="number" value="01287" />
+      <option name="presentableId" value="LOCAL-01287" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500682384</updated>
+    </task>
+    <task id="LOCAL-01288" summary="2019-01-29 07_18_11-ParetoNetworkServer.git-master-050994b7654a73a0264d601ea01c3fbc3259f39f.log">
+      <created>1551500694284</created>
+      <option name="number" value="01288" />
+      <option name="presentableId" value="LOCAL-01288" />
+      <option name="project" value="LOCAL" />
+      <updated>1551500694284</updated>
+    </task>
+    <option name="localTasksCounter" value="1289" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="14755000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="956" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3298611" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2019-01-22 23_05_39-ParetoBot.git-master-80d874bf2b227cf10b1d25e9dbca81166aa50425.log" />
+    <MESSAGE value="2019-01-23 14_54_55-ParetoNetworkServer.git-master-0ecf7cfe2351490f4a46cb6d85ff29bcc4aae0d3.log" />
+    <MESSAGE value="2019-01-23 15_50_52-ParetoNetworkServer.git-master-6b73ac266ce0391f46e7d49b93804881a9504ead.log" />
+    <MESSAGE value="2019-01-23 15_57_43-ParetoNetworkServer.git-master-9f80b6625aab616272c2d15402e79165adb1de8a.log" />
+    <MESSAGE value="2019-01-23 16_07_10-ParetoNetworkServer.git-master-e89cac105cc552a3cc6c722fcd33154d9be5c899.log" />
+    <MESSAGE value="2019-01-23 16_30_20-ParetoNetworkServer.git-master-3c00dad232a4e72185704eab18704337d575534f.log" />
+    <MESSAGE value="2019-01-24 00_25_13-ParetoBot.git-master-2702665862a96eaf3d4d1f8e776a09dbcb29fc2a.log" />
+    <MESSAGE value="2019-01-24 03_06_40-ParetoBot.git-master-9bfe1b3a683decd7abea8cb2e1cf7dc0f0c4b752.log:1" />
+    <MESSAGE value="2019-01-24 15_08_13-ParetoNetworkServer.git-master-2da6bdafbd33a58cfc82bf45469ff648778ed115.log" />
+    <MESSAGE value="2019-01-24 19_26_48-ParetoBot.git-master-aa3b516264c1822b3b9381b86e9fad3dbf1b262a.log" />
+    <MESSAGE value="2019-01-24 19_31_21-ParetoBot.git-master-e58190d72f3c4172894a1c1f887fb26774d166de.log" />
+    <MESSAGE value="2019-01-24 20_53_21-ParetoNetworkServer.git-master-8c70d28b820fd1838155f088b7857487517682e1.log" />
+    <MESSAGE value="2019-01-24 20_55_45-ParetoNetworkServer.git-master-74a75477b0a1ade34a9e78122792a2b65a71b687.log" />
+    <MESSAGE value="2019-01-24 22_54_18-ParetoNetworkServer.git-master-f93d352759a310a0b4639e6799b14b933cc957ef.log" />
+    <MESSAGE value="2019-01-25 00_23_58-ParetoBot.git-master-093f8800b1e01f2f5e0e691aace9766228b95b67.log" />
+    <MESSAGE value="2019-01-25 20_40_15-ParetoNetworkServer.git-master-b4da86b3f9a477dd667676ae57b69ce1dd526370.log" />
+    <MESSAGE value="2019-01-25 20_49_56-ParetoNetworkServer.git-master-c4932b235b0e10d655f9d75796b6b2603c5dbd16.log" />
+    <MESSAGE value="2019-01-25 23_05_33-ParetoBot.git-master-5a9afee2994a84f0ef282157a8bc245d215992c7.log" />
+    <MESSAGE value="2019-01-25 23_12_36-ParetoBot.git-master-d9fe515d4c54b9e465e1c8c7e85a80a4959cf076.log" />
+    <MESSAGE value="2019-01-25 23_57_28-ParetoNetworkServer.git-master-b5ceb5145715eadb8d70193fd2afe9d79e4b435a.log" />
+    <MESSAGE value="2019-01-25 23_57_56-ParetoNetworkServer.git-master-81a5a979fe48430abf7962c43c2bd8461177c722.log" />
+    <MESSAGE value="2019-01-26 01_23_55-ParetoNetworkServer.git-master-a86bea2eb3a7eac5675d65c0967132ebf1068f9f.log" />
+    <MESSAGE value="2019-01-28 22_19_38-ParetoBot.git-master-2643b246913cabac222d9e5d2665632dca03fdc7.log" />
+    <MESSAGE value="2019-01-29 00_59_14-ParetoNetworkServer.git-master-b1a886e49910f464f5df8f1e9c02b5d14330d095.log" />
+    <MESSAGE value="2019-01-29 07_18_11-ParetoNetworkServer.git-master-050994b7654a73a0264d601ea01c3fbc3259f39f.log" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-01-29 07_18_11-ParetoNetworkServer.git-master-050994b7654a73a0264d601ea01c3fbc3259f39f.log" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/2018-11-09 00_26_34-ParetoNetworkServer.git-master-185ddcafbd028adb791719a217c31b553f6f7327.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018-12-15 17_27_48-ParetoNetworkServer.git-master-8d8b7098d15ccfcbd535218f86349c8654fb1a3c.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018-12-17 16_53_58-ParetoNetworkServer.git-master-874b597837c6a9474fa72179ecb65061c0235abc.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019-01-15 06_35_55-ParetoNetworkServer.git-master-9d499145b864d0a1d1a73981f40d72faefebea01.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019-01-24 03_06_40-ParetoBot.git-master-9bfe1b3a683decd7abea8cb2e1cf7dc0f0c4b752.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
