@@ -1,7 +1,5 @@
 # Pareto Network Development Activity Relay
 
-![](https://img.shields.io/github/commits-since/1blockologist/ParetoDevelopmentActivityRelay/0.1.svg?style=popout)
-
 This is a public service to show real time and historical activity of the Pareto Network project. Primarily it pulls in github commits from private internal codebase repository - which the community cannot see - and posts the commits in a public repository.
 
 Discuss project activity in our [Telegram Chat](https://t.me/paretonetworkdiscussion)
