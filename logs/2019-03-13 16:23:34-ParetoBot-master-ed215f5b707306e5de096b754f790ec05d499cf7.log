@@ -1,0 +1,6 @@
+
+ 
+commit ed215f5b707306e5de096b754f790ec05d499cf7
+Author:	jandresjc <jandresjc@gmail.com>
+Date:	Wed Mar 13 2019 16:23:34 GMT+0000 (Coordinated Universal Time)
+    Commented Rank Up funcitonality. Fixed issue when whitelisted people is being restricted right away
