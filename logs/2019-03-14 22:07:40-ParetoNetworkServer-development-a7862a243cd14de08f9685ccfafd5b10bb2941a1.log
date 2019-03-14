@@ -1,0 +1,6 @@
+
+ 
+commit a7862a243cd14de08f9685ccfafd5b10bb2941a1
+Author:	1blockologist <eric@blockology.org>
+Date:	Thu Mar 14 2019 22:07:40 GMT+0000 (Coordinated Universal Time)
+    revert to single line for title
