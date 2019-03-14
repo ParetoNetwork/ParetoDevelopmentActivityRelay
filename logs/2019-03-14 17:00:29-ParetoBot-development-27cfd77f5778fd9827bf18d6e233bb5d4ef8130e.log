@@ -1,0 +1,6 @@
+
+ 
+commit 27cfd77f5778fd9827bf18d6e233bb5d4ef8130e
+Author:	jandresjc <jandresjc@gmail.com>
+Date:	Thu Mar 14 2019 17:00:29 GMT+0000 (Coordinated Universal Time)
+    Added worker for intel generation. Fixxed intel generation interval for repeating intels.
