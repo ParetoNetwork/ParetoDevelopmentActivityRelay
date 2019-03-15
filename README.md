@@ -1,5 +1,8 @@
 # Pareto Network Development Activity Relay
 
+<img src="https://status.pareto.network/badges/badge_commit.svg"></img>
+<img src="https://status.pareto.network/badges/badge_member_count.svg"></img>
+
 This is a public service to show real time and historical activity of the Pareto Network project. Primarily it pulls in github commits from private internal codebase repository - which the community cannot see - and posts the commits in a public repository.
 
 Discuss project activity in our [Telegram Chat](https://t.me/paretonetworkdiscussion)
