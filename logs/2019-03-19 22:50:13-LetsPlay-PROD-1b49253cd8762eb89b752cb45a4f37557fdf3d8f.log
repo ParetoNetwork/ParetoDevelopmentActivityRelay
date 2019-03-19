@@ -1,0 +1,6 @@
+
+ 
+commit 1b49253cd8762eb89b752cb45a4f37557fdf3d8f
+Author:	baq-maws <baq@mobileaws.com>
+Date:	Tue Mar 19 2019 17:50:13 GMT-0500 (-05)
+    tweaking game reminders to not double count the coach
