@@ -1,5 +1,3 @@
-# Pareto Network Development Activity Relay
-
 <p align="center">
   <img src="Pareto-Logo.png" />
 </p>
@@ -16,6 +14,8 @@
 <img src="https://status.pareto.network/badges/badge_member_count_announcements.svg"></img>
 <img src="https://status.pareto.network/badges/total_community.svg"></img>
 <img src="https://img.shields.io/twitter/follow/ParetoNetwork.svg?style=plastic"></img>
+
+# Pareto Network Development Activity Relay
 
 This is a public service to show real time and historical activity of the Pareto Network project. Primarily it pulls in github commits from private internal codebase repositories - which the community cannot see - and posts the commits in a public repository.
 
