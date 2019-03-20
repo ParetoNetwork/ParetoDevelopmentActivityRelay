@@ -1,5 +1,10 @@
 # Pareto Network Development Activity Relay
 
+<p align="center">
+  <img src="Pareto-Logo.png" />
+</p>
+
+
 <img src="https://status.pareto.network/badges/badge_commit.svg"></img>
 <img src="https://status.pareto.network/badges/badge_contributors.svg"></img>
 <img src="https://status.pareto.network/badges/badge_open_issues.svg"></img>
@@ -7,8 +12,6 @@
 <img src="https://status.pareto.network/badges/badge_closed_pull_request.svg"></img>
 <img src="https://status.pareto.network/badges/total_lines_code_without_dependencies.svg"></img>
 <img src="https://status.pareto.network/badges/total_lines_code_with_dependencies.svg"></img>
-
-
 <img src="https://status.pareto.network/badges/badge_member_count.svg"></img>
 <img src="https://status.pareto.network/badges/badge_member_count_announcements.svg"></img>
 <img src="https://status.pareto.network/badges/total_community.svg"></img>
