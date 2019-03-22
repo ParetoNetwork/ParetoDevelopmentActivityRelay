@@ -8,12 +8,10 @@
 <img src="https://status.pareto.network/badges/badge_open_issues.svg"></img>
 <img src="https://status.pareto.network/badges/badge_closed_issues.svg"></img>
 <img src="https://status.pareto.network/badges/badge_closed_pull_request.svg"></img>
-<img src="https://status.pareto.network/badges/total_lines_code_without_dependencies.svg"></img>
-<img src="https://status.pareto.network/badges/total_lines_code_with_dependencies.svg"></img>
 <img src="https://status.pareto.network/badges/badge_member_count.svg"></img>
 <img src="https://status.pareto.network/badges/badge_member_count_announcements.svg"></img>
 <img src="https://status.pareto.network/badges/total_community.svg"></img>
-<img src="https://img.shields.io/twitter/follow/ParetoNetwork.svg?style=plastic"></img>
+<a href="https://twitter.com/ParetoNetwork"><img src="https://img.shields.io/twitter/follow/ParetoNetwork.svg?style=plastic"></img></a>
 
 # Pareto Network 📡 Development Activity Relay
 
