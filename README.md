@@ -3,7 +3,7 @@
 </p>
 
 
-<a href="https://github.com/ParetoNetwork/ParetoDevelopmentActivityRelay"><img src="https://status.pareto.network/badges/badge_commit.svg"></img></a>
+<a href="https://github.com/ParetoNetwork/ParetoDevelopmentActivityRelay"><img src="https://status.pareto.network/badges/badge_commit.svg#1"></img></a>
 <a href="https://github.com/orgs/ParetoNetwork/people"><img src="https://status.pareto.network/badges/badge_contributors.svg"></img></a>
 <img src="https://status.pareto.network/badges/badge_open_issues.svg"></img>
 <img src="https://status.pareto.network/badges/badge_closed_issues.svg"></img>
