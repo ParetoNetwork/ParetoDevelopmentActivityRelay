@@ -1,0 +1,6 @@
+
+ 
+commit b1c5ab9483081cf9521b27a23bd502a3dbd24854
+Author:	HansOspina <hansospina@gmail.com>
+Date:	Thu Mar 28 2019 16:22:09 GMT+0000 (Coordinated Universal Time)
+    add rewards vs desiredReward on score formula
