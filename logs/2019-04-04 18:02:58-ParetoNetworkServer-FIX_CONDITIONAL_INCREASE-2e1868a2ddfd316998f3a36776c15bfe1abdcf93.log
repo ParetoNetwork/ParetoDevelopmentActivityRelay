@@ -1,0 +1,8 @@
+
+ 
+commit 2e1868a2ddfd316998f3a36776c15bfe1abdcf93
+Author:	1blockologist <eric@blockology.org>
+Date:	Thu Apr 04 2019 18:02:58 GMT+0000 (Coordinated Universal Time)
+    Merge pull request #617 from ParetoNetwork/FIX_CONDITIONAL_INCREASE
+
+Fix minimal data on Intel
