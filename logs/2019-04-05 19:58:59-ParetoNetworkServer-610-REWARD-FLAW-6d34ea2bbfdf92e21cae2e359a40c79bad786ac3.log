@@ -1,0 +1,6 @@
+
+ 
+commit 6d34ea2bbfdf92e21cae2e359a40c79bad786ac3
+Author:	HansOspina <hansospina@gmail.com>
+Date:	Fri Apr 05 2019 19:58:59 GMT+0000 (Coordinated Universal Time)
+    Fixes #610, add address console log
