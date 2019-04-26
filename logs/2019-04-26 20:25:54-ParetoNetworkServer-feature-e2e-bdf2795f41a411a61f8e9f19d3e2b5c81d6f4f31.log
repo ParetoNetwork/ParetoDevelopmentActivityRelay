@@ -1,0 +1,8 @@
+
+ 
+commit bdf2795f41a411a61f8e9f19d3e2b5c81d6f4f31
+Author:	undefined <mike@allcode.com>
+Date:	Fri Apr 26 2019 20:25:54 GMT+0000 (Coordinated Universal Time)
+    * Fixed bug on intels creation method.
+* Added library for signal protocol.
+* Created the base method for generating keys.
