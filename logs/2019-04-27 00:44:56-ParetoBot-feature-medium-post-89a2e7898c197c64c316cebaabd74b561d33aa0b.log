@@ -1,0 +1,6 @@
+
+ 
+commit 89a2e7898c197c64c316cebaabd74b561d33aa0b
+Author:	jandresjc <jandresjc@gmail.com>
+Date:	Sat Apr 27 2019 00:44:56 GMT+0000 (Coordinated Universal Time)
+    finished facebook and twitter integrations to post to social media
