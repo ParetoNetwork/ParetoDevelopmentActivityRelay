@@ -22,7 +22,7 @@ Discuss project activity in our [Telegram Chat](https://t.me/paretonetworkdiscus
 
 ## Background
 
-Projects that involve the blockchain/crypto assets/DLT communities are frequently judged by the number of github commits they have, to determine their health or even overall legitimacy. This metric only works if the organization is using public github repositories, whereas a more common business practice involves private repositories. Many external services look at this metric, so as an organization with private repositories we can address this misalignment with the relay. This relay also pulls in commits from our public and private repositories and commits them here. There is one commit in this repository for every commit in our other repositories. This relay helps include community participants and better align them with the project.
+Projects that involve the blockchain/crypto assets/DLT communities are frequently judged by the number of github commits they have, to determine their health or even overall legitimacy. This metric only works if the organization is using public github repositories whereas a more common business practice involves private repositories. Many external services look at this metric, so as an organization with private repositories we can address this misalignment with the relay. This relay also pulls in commits from our public and private repositories and commits them here. There is one commit in this repository for every commit in our other repositories. This relay helps include community participants and better align them with the project.
 
 ## How to use
 
