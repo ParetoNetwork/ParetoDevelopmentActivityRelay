@@ -2,15 +2,6 @@
   <img src="Pareto-Logo.png" />
 </p>
 
-
-<a href="https://github.com/ParetoNetwork/ParetoDevelopmentActivityRelay"><img src="https://status.pareto.network/badges/badge_commit.svg#1"></img></a>
-<a href="https://github.com/orgs/ParetoNetwork/people"><img src="https://status.pareto.network/badges/badge_contributors.svg"></img></a>
-<img src="https://status.pareto.network/badges/badge_open_issues.svg"></img>
-<img src="https://status.pareto.network/badges/badge_closed_issues.svg"></img>
-<img src="https://status.pareto.network/badges/badge_closed_pull_request.svg"></img>
-<a href="https://t.me/paretonetworkdiscussion"><img src="https://status.pareto.network/badges/badge_member_count.svg"></img></a>
-<a href="https://t.me/paretonetworkofficial"><img src="https://status.pareto.network/badges/badge_member_count_announcements.svg"></img></a>
-<a href="https://t.me/paretonetworkdiscussion"><img src="https://status.pareto.network/badges/total_community.svg"></img></a>
 <a href="https://twitter.com/ParetoNetwork"><img src="https://img.shields.io/twitter/follow/ParetoNetwork.svg?style=plastic"></img></a>
 
 # Pareto Network 📡 Development Activity Relay
